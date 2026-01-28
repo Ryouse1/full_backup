@@ -1,0 +1,19 @@
+0 verbose cli /tools/node/bin/node /tools/node/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.19.0
+3 silly config load:file:/tools/node/lib/node_modules/npm/npmrc
+4 silly config load:file:/datalab/web/.npmrc
+5 silly config load:file:/root/.npmrc
+6 silly config load:file:/tools/node/etc/npmrc
+7 verbose title npm ls socket.io
+8 verbose argv "ls" "socket.io"
+9 verbose logfile logs-max:10 dir:/root/.npm/_logs/2026-01-26T14_13_10_816Z-
+10 verbose logfile /root/.npm/_logs/2026-01-26T14_13_10_816Z-debug-0.log
+11 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+12 silly logfile done cleaning log files
+13 verbose cwd /datalab/web
+14 verbose os Linux 5.10.0-32-cloud-amd64
+15 verbose node v20.19.0
+16 verbose npm  v10.8.2
+17 verbose exit 0
+18 info ok
