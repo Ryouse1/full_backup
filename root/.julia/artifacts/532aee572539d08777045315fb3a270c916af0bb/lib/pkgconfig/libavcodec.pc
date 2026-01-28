@@ -1,0 +1,14 @@
+prefix=${pcfiledir}/../..
+exec_prefix=${prefix}
+libdir=/workspace/destdir/lib
+includedir=/workspace/destdir/include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 62.11.100
+Requires: 
+Requires.private: libswresample >= 6.1.100, libavutil >= 60.8.100
+Conflicts:
+Libs: -L${libdir}  -lavcodec 
+Libs.private: -L/workspace/destdir/lib/pkgconfig/../../lib -lvpx -lm -lm -lpthread -L/workspace/destdir/lib/pkgconfig/../../lib -lvpx -lm -lm -lpthread -L/workspace/destdir/lib/pkgconfig/../../lib -lvpx -lm -lm -lpthread -L/workspace/destdir/lib/pkgconfig/../../lib -lvpx -lm -lm -lpthread -pthread -liconv -lm -latomic -L/workspace/destdir/lib/pkgconfig/../../lib -laom -lm -lpthread -L/workspace/destdir/lib/pkgconfig/../../lib -lfdk-aac -lm -lmp3lame -lm -L/workspace/destdir/lib/pkgconfig/../../lib -lopus -lm -L/workspace/destdir/lib/pkgconfig/../../lib -lvorbis -lm -L/workspace/destdir/lib/pkgconfig/../../lib -logg -L/workspace/destdir/lib/pkgconfig/../../lib -lvorbisenc -L/workspace/destdir/lib/pkgconfig/../../lib -lvorbis -lm -L/workspace/destdir/lib/pkgconfig/../../lib -logg -L/workspace/destdir/lib/pkgconfig/../../lib -lx264 -lpthread -lm -ldl -L/workspace/destdir/lib/pkgconfig/../../lib -lx265 -lstdc++ -lm -lgcc_s -lgcc -lgcc_s -lgcc -lrt -ldl -L/workspace/destdir/lib -lz
+Cflags: -I${includedir}
