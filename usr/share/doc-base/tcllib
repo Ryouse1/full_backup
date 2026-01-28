@@ -1,0 +1,11 @@
+Document: tcllib
+Title: Tcllib HTML Documentation
+Author: Authors of the Tcllib modules
+Abstract: This is a documentation for Tcllib - the standard Tcl library.
+ It contains documentation on individual Tcllib modules, supplied
+ with upstream distribution.
+Section: Programming
+
+Format: HTML
+Index: /usr/share/doc/tcllib/index.html
+Files: /usr/share/doc/tcllib/html/*.html

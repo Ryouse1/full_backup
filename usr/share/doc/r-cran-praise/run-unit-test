@@ -1,0 +1,13 @@
+#!/bin/sh -e
+
+pkg=r-cran-praise
+
+if [ "$AUTOPKGTEST_TMP" = "" ] ; then
+  AUTOPKGTEST_TMP=`mktemp -d /tmp/${pkg}-test.XXXXXX`
+fi
+cd $AUTOPKGTEST_TMP
+cp -a /usr/share/doc/${pkg}/tests/* $AUTOPKGTEST_TMP
+find . -name "*.gz" -exec gunzip \{\} \;
+# Make sure we are using C locale to pass all tests
+LC_ALL=C R --no-save < testthat.R
+rm -rf $AUTOPKGTEST_TMP/*

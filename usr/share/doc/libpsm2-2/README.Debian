@@ -1,0 +1,60 @@
+libpsm2 for Debian
+-----------------
+
+1) PSM Compatibility Library
+
+When libpsm2-2-compat is installed, the post-installation script triggers
+/dev/hfi1_[0-9] if those devices exist. This causes udev to symlink
+/dev/ipath to the hfi1 device. This is not performed if /dev/ipath
+already exists. Similar actions are taken by the post-remove script to
+remove /dev/ipath if it is a symlink.
+
+libpsm2-2-compat installs /usr/lib/libpsm2-2/libpsm_infinipath.so.1, which
+is a compatibility library that allows an application compiled with PSM
+support to use a PSM2 device via libpsm2-2. Use of this compatibility library
+is managed via update-alternatives.
+
+To view the current alternatives selection of libpsm_infinipath.so.1, invoke:
+
+  $ update-alternatives --display libpsm_infinipath.so.1
+
+To change the alternatives selection to libpsm2-2-compat, invoke:
+
+  $ sudo update-alternatives --set libpsm_infinipath.so.1 \
+        /usr/lib/libpsm2-2/libpsm_infinipath.so.1
+
+To change the alternatives selection to libpsm-infinipath1, invoke:
+
+  $ sudo update-alternatives --set libpsm_infinipath.so.1 \
+        /usr/lib/libpsm1/libpsm_infinipath.so.1.16
+
+Please note that the compatibility library should not be selected during
+a build's link stage. Instead, the shared library from libpsm-infinipath1
+should be the selected alternative.
+
+As such, the compatibility library is excluded from libpsm2 dh_makeshlibs. A
+package that depends upon libpsm-infinipath1-dev will FTBFS if the
+compatibility library is selected at build time. This is by design.
+
+2) Predictable RDMA Interface Names
+
+If the host's operating system implements predictable RDMA interface names,
+libpsm2 will fail to initialize. This is due to a change in the sysfs path
+for hfi devices. Instead of /sys/class/infiniband/hfi1_0, the path will be
+something like /sys/class/infiniband/opap129s0.
+
+To correct this problem, edit /lib/udev/rules.d/60-rdma-persistent-naming.rules
+and change :
+    ACTION=="add", SUBSYSTEM=="infiniband", PROGRAM="rdma_rename %k NAME_FALLBACK"
+To:
+    ACTION=="add", SUBSYSTEM=="infiniband", PROGRAM="rdma_rename %k NAME_KERNEL"
+
+After rebooting the host and loading the hfi1 kernel module, the path
+/sys/class/infiniband/hfi1_0 should be present.
+
+See https://github.com/intel/opa-psm2/issues/43 .
+
+
+Brian T. Smith
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com> Tue, 10 Sep 2019 10:01:09 -0500
