@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "172.28.0.12",
+  "password": false,
+  "pid": 87,
+  "port": 9000,
+  "root_dir": "/",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://172.28.0.12:9000/",
+  "version": "2.14.0"
+}

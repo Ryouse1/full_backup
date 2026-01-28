@@ -1,0 +1,10 @@
+Manifest.toml
+.vscode
+dev/
+test/test_protos/
+docs/build/
+docs/site/
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+.DS_Store

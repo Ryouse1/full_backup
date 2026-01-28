@@ -1,0 +1,83 @@
+[[libdecor]]
+arch = "aarch64"
+git-tree-sha1 = "5be0cc7a03160edf1be4fa09752a315c0659c833"
+libc = "glibc"
+os = "linux"
+
+    [[libdecor.download]]
+    sha256 = "edf30bcdfa09737315616104f8f886df1795b461f7ca35c47c6d9c94e201958f"
+    url = "https://github.com/JuliaBinaryWrappers/libdecor_jll.jl/releases/download/libdecor-v0.2.2+0/libdecor.v0.2.2.aarch64-linux-gnu.tar.gz"
+[[libdecor]]
+arch = "aarch64"
+git-tree-sha1 = "dfe356feb5c32e95cb9dceacd26a8a9d7a8d3ad3"
+libc = "musl"
+os = "linux"
+
+    [[libdecor.download]]
+    sha256 = "b12ae7de49d9ee76740cbffbeaa1122a0ab870de308ebe380ea136cbaf6bcada"
+    url = "https://github.com/JuliaBinaryWrappers/libdecor_jll.jl/releases/download/libdecor-v0.2.2+0/libdecor.v0.2.2.aarch64-linux-musl.tar.gz"
+[[libdecor]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "723722f2eab3c7802080747e7c2c49257f3180cf"
+libc = "glibc"
+os = "linux"
+
+    [[libdecor.download]]
+    sha256 = "8241799fe22a34c91ea0dddac7eeec0111ad1748ff3f6591a7ddd56e0c3907ca"
+    url = "https://github.com/JuliaBinaryWrappers/libdecor_jll.jl/releases/download/libdecor-v0.2.2+0/libdecor.v0.2.2.armv7l-linux-gnueabihf.tar.gz"
+[[libdecor]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bfd9371435baf62d0534eeb43de02626630a9d84"
+libc = "musl"
+os = "linux"
+
+    [[libdecor.download]]
+    sha256 = "39a57ddcb081801dbc099eadb07e726d7e8f96201b240505711259858486b625"
+    url = "https://github.com/JuliaBinaryWrappers/libdecor_jll.jl/releases/download/libdecor-v0.2.2+0/libdecor.v0.2.2.armv7l-linux-musleabihf.tar.gz"
+[[libdecor]]
+arch = "i686"
+git-tree-sha1 = "6b44289767d2163c8375cd29ea97e8c7826f69b3"
+libc = "glibc"
+os = "linux"
+
+    [[libdecor.download]]
+    sha256 = "5b0939e056d231133558013fb3e133e3a00a4959d91f8b403641ae9c21e1809d"
+    url = "https://github.com/JuliaBinaryWrappers/libdecor_jll.jl/releases/download/libdecor-v0.2.2+0/libdecor.v0.2.2.i686-linux-gnu.tar.gz"
+[[libdecor]]
+arch = "i686"
+git-tree-sha1 = "3ffad042e02a52fa1c8d95cc5fdab8225a35c972"
+libc = "musl"
+os = "linux"
+
+    [[libdecor.download]]
+    sha256 = "a36f98ec7d7146f13ddac19a7242662d3216733682794d2059f8bcbda70b8dff"
+    url = "https://github.com/JuliaBinaryWrappers/libdecor_jll.jl/releases/download/libdecor-v0.2.2+0/libdecor.v0.2.2.i686-linux-musl.tar.gz"
+[[libdecor]]
+arch = "powerpc64le"
+git-tree-sha1 = "91c7a19be812f699fbb115e3ac7d6b03472a3c29"
+libc = "glibc"
+os = "linux"
+
+    [[libdecor.download]]
+    sha256 = "06e77144bf62010418e81f7871f43048c734238365d3fbd1e1ef4521d719015a"
+    url = "https://github.com/JuliaBinaryWrappers/libdecor_jll.jl/releases/download/libdecor-v0.2.2+0/libdecor.v0.2.2.powerpc64le-linux-gnu.tar.gz"
+[[libdecor]]
+arch = "x86_64"
+git-tree-sha1 = "38e215c51e5c0f77bc7a8813ba4586632a8fc750"
+libc = "glibc"
+os = "linux"
+
+    [[libdecor.download]]
+    sha256 = "89ba985419f40827ac51bfaa014d0f6e2883f60f4f2e76fc7a3796eeb90ddbb0"
+    url = "https://github.com/JuliaBinaryWrappers/libdecor_jll.jl/releases/download/libdecor-v0.2.2+0/libdecor.v0.2.2.x86_64-linux-gnu.tar.gz"
+[[libdecor]]
+arch = "x86_64"
+git-tree-sha1 = "d59cca6d33c8b9dbb485daf56f5c3be6fbcf4241"
+libc = "musl"
+os = "linux"
+
+    [[libdecor.download]]
+    sha256 = "f21dd3117e93327eb9536d5a192c35a5388e382b0cbec84134512d14c93e5651"
+    url = "https://github.com/JuliaBinaryWrappers/libdecor_jll.jl/releases/download/libdecor-v0.2.2+0/libdecor.v0.2.2.x86_64-linux-musl.tar.gz"
