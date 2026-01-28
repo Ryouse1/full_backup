@@ -1,0 +1,10 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib/x86_64-linux-gnu
+
+Name: udunits
+Description: Library for handling of units of physical quantities
+Version: 2.2.28
+Libs:  -L${libdir} -ludunits2
+Libs.private: -L${libdir} -ludunits2 -lexpat
+CFlags: -I${prefix}/include

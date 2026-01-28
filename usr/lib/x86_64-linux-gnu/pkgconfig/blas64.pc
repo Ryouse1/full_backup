@@ -1,0 +1,1 @@
+/etc/alternatives/blas64.pc-x86_64-linux-gnu
