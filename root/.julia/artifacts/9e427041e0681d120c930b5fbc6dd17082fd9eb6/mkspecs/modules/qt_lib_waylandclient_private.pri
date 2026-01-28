@@ -1,0 +1,17 @@
+QT.waylandclient_private.VERSION = 6.8.2
+QT.waylandclient_private.name = QtWaylandClient
+QT.waylandclient_private.module =
+QT.waylandclient_private.libs = $$QT_MODULE_LIB_BASE
+QT.waylandclient_private.includes = $$QT_MODULE_INCLUDE_BASE/QtWaylandClient/6.8.2 $$QT_MODULE_INCLUDE_BASE/QtWaylandClient/6.8.2/QtWaylandClient
+QT.waylandclient_private.frameworks = 
+QT.waylandclient_private.depends = core_private gui_private waylandglobal_private waylandclient
+QT.waylandclient_private.uses = 
+QT.waylandclient_private.module_config = v2 internal_module
+QT.waylandclient_private.enabled_features = wayland-client-primary-selection wayland-client-fullscreen-shell-v1 wayland-client-ivi-shell wayland-client-wl-shell wayland-client-xdg-shell wayland-client-qt-shell egl-extension-platform-wayland
+QT.waylandclient_private.disabled_features = 
+QMAKE_INCDIR_WAYLAND_CLIENT = /workspace/destdir/include
+QMAKE_LIBS_WAYLAND_CLIENT = -L"/workspace/destdir/lib" -lwayland-client
+QMAKE_INCDIR_WAYLAND_CURSOR = /workspace/destdir/include
+QMAKE_LIBS_WAYLAND_CURSOR = -L"/workspace/destdir/lib" -lwayland-cursor
+QMAKE_INCDIR_WAYLAND_EGL = /workspace/destdir/include
+QMAKE_LIBS_WAYLAND_EGL = -L"/workspace/destdir/lib" -lwayland-egl -lwayland-client
