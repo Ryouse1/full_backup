@@ -1,0 +1,19 @@
+{
+ "argv": [
+  "/usr/bin/python3",
+  "-m",
+  "colab_kernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "env": {},
+ "interrupt_mode": "signal",
+ "language": "python",
+ "metadata": {
+  "colab": {
+   "socketio_version": "2.5.1"
+  },
+  "debugger": true
+ }
+}

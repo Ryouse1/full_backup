@@ -1,0 +1,21 @@
+{
+ "argv": [
+  "/usr/lib/R/bin/R",
+  "--slave",
+  "-e",
+  "IRkernel::main()",
+  "--args",
+  "{connection_file}"
+ ],
+ "display_name": "R",
+ "env": {
+  "OPENBLAS_NUM_THREADS": "1"
+ },
+ "interrupt_mode": "signal",
+ "language": "R",
+ "metadata": {
+  "colab": {
+   "socketio_version": "2.5.1"
+  }
+ }
+}
