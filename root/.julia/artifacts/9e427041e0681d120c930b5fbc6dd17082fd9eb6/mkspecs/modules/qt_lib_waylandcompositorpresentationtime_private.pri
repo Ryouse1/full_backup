@@ -1,0 +1,11 @@
+QT.waylandcompositorpresentationtime_private.VERSION = 6.8.2
+QT.waylandcompositorpresentationtime_private.name = QtWaylandCompositorPresentationTime
+QT.waylandcompositorpresentationtime_private.module =
+QT.waylandcompositorpresentationtime_private.libs = $$QT_MODULE_LIB_BASE
+QT.waylandcompositorpresentationtime_private.includes = $$QT_MODULE_INCLUDE_BASE/QtWaylandCompositorPresentationTime/6.8.2 $$QT_MODULE_INCLUDE_BASE/QtWaylandCompositorPresentationTime/6.8.2/QtWaylandCompositorPresentationTime
+QT.waylandcompositorpresentationtime_private.frameworks = 
+QT.waylandcompositorpresentationtime_private.depends = waylandcompositorpresentationtime
+QT.waylandcompositorpresentationtime_private.uses = 
+QT.waylandcompositorpresentationtime_private.module_config = v2 internal_module
+QT.waylandcompositorpresentationtime_private.enabled_features = 
+QT.waylandcompositorpresentationtime_private.disabled_features = 
