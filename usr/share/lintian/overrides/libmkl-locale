@@ -1,0 +1,11 @@
+# Automatically overridden by debian/control.py
+hardening-no-bindnow
+hardening-no-fortify-functions
+library-not-linked-against-libc
+shared-lib-without-dependency-information
+sharedobject-in-library-directory-missing-soname
+shlib-without-versioned-soname
+spelling-error-in-binary
+unstripped-binary-or-object
+# Automatically overridden by debian/control.py
+package-contains-no-arch-dependent-files

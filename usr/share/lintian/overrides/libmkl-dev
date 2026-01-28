@@ -1,0 +1,3 @@
+# Automatically overridden by debian/control.py
+static-library-has-unneeded-section
+unstripped-static-library
