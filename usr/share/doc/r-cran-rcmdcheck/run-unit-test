@@ -1,0 +1,20 @@
+#!/bin/sh -e
+
+pkgname=rcmdcheck
+debname=r-cran-rcmdcheck
+
+if [ "$AUTOPKGTEST_TMP" = "" ] ; then
+    AUTOPKGTEST_TMP=`mktemp -d /tmp/${debname}-test.XXXXXX`
+    trap "rm -rf $AUTOPKGTEST_TMP" 0 INT QUIT ABRT PIPE TERM
+fi
+cp -a /usr/share/doc/$debname/tests/ $AUTOPKGTEST_TMP
+cd $AUTOPKGTEST_TMP/tests
+gunzip -rk *
+
+# Ignore one test
+sed -i -e '/^test_that."check_dir argument"/,/^})/d' testthat/test-rcmdcheck.R
+
+for testfile in *.R; do
+    echo "BEGIN TEST $testfile"
+    LC_ALL=C.UTF-8 R --no-save < $testfile
+done
