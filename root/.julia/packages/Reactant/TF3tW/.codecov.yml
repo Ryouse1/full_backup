@@ -1,3 +1,0 @@
-ignore:
-  - "src/mlir/Dialects"
-  - "src/mlir/libMLIR_h.jl"

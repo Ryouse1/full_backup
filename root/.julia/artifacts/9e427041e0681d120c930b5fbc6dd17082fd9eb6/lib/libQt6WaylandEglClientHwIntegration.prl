@@ -1,5 +1,0 @@
-QMAKE_PRL_TARGET = libQt6WaylandEglClientHwIntegration.so
-QMAKE_PRL_CONFIG = shared
-QMAKE_PRL_VERSION = 6.8.2
-QMAKE_PRL_LIBS = -ldl $$[QT_INSTALL_LIBS]/libEGL.so $$[QT_INSTALL_LIBS]/libQt6OpenGL.so $$[QT_INSTALL_LIBS]/libxkbcommon.so $$[QT_INSTALL_LIBS]/libQt6WaylandClient.so $$[QT_INSTALL_LIBS]/libQt6Gui.so $$[QT_INSTALL_LIBS]/libQt6Core.so -pthread $$[QT_INSTALL_LIBS]/libGLX.so $$[QT_INSTALL_LIBS]/libOpenGL.so $$[QT_INSTALL_LIBS]/libwayland-cursor.so $$[QT_INSTALL_LIBS]/libwayland-egl.so $$[QT_INSTALL_LIBS]/libwayland-client.so
-QMAKE_PRL_LIBS_FOR_CMAKE = -ldl;$$[QT_INSTALL_LIBS]/libEGL.so;$$[QT_INSTALL_LIBS]/libQt6OpenGL.so;$$[QT_INSTALL_LIBS]/libxkbcommon.so;$$[QT_INSTALL_LIBS]/libQt6WaylandClient.so;$$[QT_INSTALL_LIBS]/libQt6Gui.so;$$[QT_INSTALL_LIBS]/libQt6Core.so;-pthread;$$[QT_INSTALL_LIBS]/libGLX.so;$$[QT_INSTALL_LIBS]/libOpenGL.so;$$[QT_INSTALL_LIBS]/libwayland-cursor.so;$$[QT_INSTALL_LIBS]/libwayland-egl.so;$$[QT_INSTALL_LIBS]/libwayland-client.so

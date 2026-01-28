@@ -1,9 +1,0 @@
-prefix=${pcfiledir}/../..
-includedir=/workspace/destdir/include
-libdir=/workspace/destdir/lib
-
-Name: GLESv1_CM
-Description: OpenGL ES-CM v1 library and headers.
-Version: 1.0
-Libs: -L${libdir} -lGLESv1_CM
-Cflags: -I${includedir}

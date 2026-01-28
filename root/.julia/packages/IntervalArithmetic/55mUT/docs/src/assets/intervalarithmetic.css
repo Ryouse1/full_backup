@@ -1,8 +1,0 @@
-/* KaTeX */
-
-.katex {
-  font-size: 1em !important; }
-
-.katex-display .katex {
-  /* allow display equations to wrap on small screens */
-  white-space: normal; }
