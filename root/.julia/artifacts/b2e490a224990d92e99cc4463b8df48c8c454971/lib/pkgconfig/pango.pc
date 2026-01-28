@@ -1,0 +1,12 @@
+prefix=${pcfiledir}/../..
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: Pango
+Description: Internationalized text handling
+Version: 1.57.0
+Requires: gobject-2.0 >=  2.82, harfbuzz >=  8.4.0
+Requires.private: fontconfig, glib-2.0 >=  2.82, gio-2.0 >=  2.82, fribidi >=  1.0.6, freetype2 >=  21.0.15, expat, cairo >=  1.18.0
+Libs: -L${libdir} -lpango-1.0
+Libs.private: -lm -pthread
+Cflags: -I${includedir}/pango-1.0
