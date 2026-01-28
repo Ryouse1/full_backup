@@ -1,8 +1,0 @@
-Notes on how this package can be tested.
-────────────────────────────────────────
-
-This package needs manual installation of
-
-    https://cran.r-project.org/web/packages/disposables/index.html
-
-to run the unit tests.  This is not packaged yet.

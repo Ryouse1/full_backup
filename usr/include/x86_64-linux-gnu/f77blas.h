@@ -1,1 +1,0 @@
-/etc/alternatives/f77blas.h-x86_64-linux-gnu

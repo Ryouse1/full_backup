@@ -1,5 +1,0 @@
-#ifndef QT_QTWAYLANDCOMPOSITORPRESENTATIONTIME_MODULE_H
-#define QT_QTWAYLANDCOMPOSITORPRESENTATIONTIME_MODULE_H
-#include <QtWaylandCompositorPresentationTime/QtWaylandCompositorPresentationTimeDepends>
-#include "qtwaylandcompositorpresentationtimeversion.h"
-#endif

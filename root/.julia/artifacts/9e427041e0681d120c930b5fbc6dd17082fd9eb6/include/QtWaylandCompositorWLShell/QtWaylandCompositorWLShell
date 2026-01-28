@@ -1,5 +1,0 @@
-#ifndef QT_QTWAYLANDCOMPOSITORWLSHELL_MODULE_H
-#define QT_QTWAYLANDCOMPOSITORWLSHELL_MODULE_H
-#include <QtWaylandCompositorWLShell/QtWaylandCompositorWLShellDepends>
-#include "qtwaylandcompositorwlshellversion.h"
-#endif

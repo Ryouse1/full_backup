@@ -1,2 +1,0 @@
-deb [arch=amd64] https://r2u.stat.illinois.edu/ubuntu jammy main
-deb-src [arch=amd64] https://r2u.stat.illinois.edu/ubuntu jammy main

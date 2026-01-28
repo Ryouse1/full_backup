@@ -1,5 +1,0 @@
-style = "blue"
-
-ignore = ["src/Wrapper.jl"]
-whitespace_in_kwargs = true
-whitespace_typedefs = true

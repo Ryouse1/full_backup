@@ -1,3 +1,0 @@
-# Symbols are problematic for C++ libraries, shlibs is used instead.
-no-symbols-control-file *
-

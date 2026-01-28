@@ -1,3 +1,0 @@
-style = "blue"
-always_use_return = true
-ignore = ["src/proto/**/*_pb.jl"]

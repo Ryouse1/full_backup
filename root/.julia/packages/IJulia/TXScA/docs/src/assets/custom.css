@@ -1,5 +1,0 @@
-/* Add border to GIF images in the documentation */
-article img[src$=".gif"] {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-}

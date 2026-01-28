@@ -1,5 +1,0 @@
-# HSTS 1.0 Known Hosts database for GNU Wget.
-# Edit at your own risk.
-# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
-nodejs.org	0	1	1769436677	31536000
-r2u.stat.illinois.edu	0	1	1768572458	63072000

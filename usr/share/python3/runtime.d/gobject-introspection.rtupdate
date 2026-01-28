@@ -1,7 +1,0 @@
-#! /bin/sh
-set -e
-
-if [ "$1" = rtupdate ]; then
-	py3clean -p gobject-introspection /usr/lib/x86_64-linux-gnu/gobject-introspection/giscanner
-	py3compile -p gobject-introspection -V 3.10 /usr/lib/x86_64-linux-gnu/gobject-introspection/giscanner
-fi

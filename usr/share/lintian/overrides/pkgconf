@@ -1,2 +1,0 @@
-pkgconf: file-directly-in-usr-share
-pkgconf: package-contains-empty-directory usr/*/pkgconfig/
