@@ -1,0 +1,45 @@
+name = "LuxTestUtils"
+uuid = "ac9de150-d08f-4546-94fb-7472b5760531"
+version = "2.1.0"
+authors = ["Avik Pal <avikpal@mit.edu>"]
+
+[deps]
+ADTypes = "47edcb42-4c32-4615-8424-f2b9edc5f35b"
+ArrayInterface = "4fba245c-0d91-5ea0-9b3e-6abc04ee57a9"
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+ComponentArrays = "b0b7db55-cfe3-40fc-9ded-d10e2dbeff66"
+DispatchDoctor = "8d63f2c5-f18a-4cf2-ba9d-b3f60fc568c8"
+Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
+FiniteDiff = "6a86dc24-6348-571c-b903-95158fe2bd41"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+Functors = "d9f16b24-f501-4c13-a1f2-28368ffc5196"
+JET = "c3a54625-cd67-489e-a8e7-0a5a0ff4e31b"
+MLDataDevices = "7e8f7934-dd98-4c1a-8fe8-92b47a384d40"
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
+[sources]
+MLDataDevices = {path = "../MLDataDevices"}
+
+[compat]
+ADTypes = "1.10"
+ArrayInterface = "7.17.1"
+ChainRulesCore = "1.25.1"
+ComponentArrays = "0.15.22"
+DispatchDoctor = "0.4.12"
+Enzyme = "0.13.81"
+FiniteDiff = "2.23.1"
+ForwardDiff = "0.10.36, 1"
+Functors = "0.5"
+JET = "0.9.6, 0.10"
+MLDataDevices = "1.17"
+Optimisers = "0.3.4, 0.4"
+Pkg = "1.10"
+Test = "1.10"
+Zygote = "0.7"
+julia = "1.10"
+
+[workspaces]
+projects = ["test"]
