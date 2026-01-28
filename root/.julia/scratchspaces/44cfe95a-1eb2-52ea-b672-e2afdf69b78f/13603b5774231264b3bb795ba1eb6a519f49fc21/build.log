@@ -1,0 +1,12 @@
+Precompiling Conda...
+    717.0 ms  ✓ VersionParsing
+    880.7 ms  ✓ Preferences
+    968.0 ms  ✓ StructUtils
+    571.2 ms  ✓ PrecompileTools
+  11540.6 ms  ✓ Parsers
+   3613.7 ms  ✓ JSON
+   1127.9 ms  ✓ Conda
+  7 dependencies successfully precompiled in 18 seconds. 16 already precompiled.
+[ Info: Installing 'Julia 1.11' kernelspec in /root/.local/share/jupyter/kernels/julia-1.11
+┌ Warning: JUPYTER=jupyter not found in PATH
+└ @ Main ~/.julia/packages/IJulia/TXScA/deps/build.jl:30

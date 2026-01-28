@@ -1,0 +1,61 @@
+# requirements.user.in contains the deps that are shared between all images
+# (e.g. CPU/GPU images, TPU VM images). We try to keep TPU VM images small and
+# TPU deps focused on deep learning applications. Here are the guidelines of
+# where to put your Python deps.
+#
+# * requirements.user.in
+# 1. The dependency is both relevant to deep learning and not dependent on CUDA
+#    or libtpu (e.g. fastai)
+# 2. The dependency is required for basic notebook functionality or container
+#    builds (e.g. pytest)
+# 3. The dependency is extremely common for both deep learning and non-deep
+#    learning applications (e.g. numpy)
+#
+# * requirements.tpu.in
+# Deps with TPU-specific versions (e.g. the TPU version of jax).
+#
+# * requirements.gpu.in
+# Deps withs GPU-specific versions (e.g. the GPU version of jax).
+#
+# * requirements.cpu.in
+# Deps with CPU-specific versions
+accelerate~=1.6
+altair~=5.5.0
+beautifulsoup4~=4.13.1
+charset-normalizer~=3.4.0
+datasets~=4.0
+flax~=0.11.2
+gdown~=5.2.0
+google~=3.0.0
+google-cloud-storage~=3.5
+google-genai~=1.49
+grain~=0.2.15
+gspread-dataframe~=4.0.0
+gspread~=6.2.0
+huggingface-hub~=0.29
+jupyter-client~=7.4.9
+jupyter-console~=6.6.3
+jupyterlab-widgets~=3.0.3
+kaggle~=1.7.4
+kagglehub~=0.3.13
+betterproto==2.0.0b6
+librosa~=0.11
+jupyter_kernel_gateway @ git+https://github.com/googlecolab/kernel_gateway@2.5.3
+nltk==3.9.1
+numpy~=2.0.2
+plotly~=5.24.1
+pytest~=8.4
+pyzmq~=26.2.1
+rpy2==3.5.17
+sentencepiece~=0.2.0
+scikit-image~=0.25.0
+scikit-learn~=1.6.0
+scipy~=1.16.0
+sklearn-pandas~=2.2.0
+spacy~=3.8.4
+tensorflow-datasets~=4.9.9
+tensorflow-probability~=0.25.0
+tqdm~=4.67.0
+transformers~=4.53
+urllib3~=2.5.0
+vega-datasets~=0.9.0
