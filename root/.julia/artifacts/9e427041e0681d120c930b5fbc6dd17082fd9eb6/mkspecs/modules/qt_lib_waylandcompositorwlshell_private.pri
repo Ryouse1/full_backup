@@ -1,0 +1,11 @@
+QT.waylandcompositorwlshell_private.VERSION = 6.8.2
+QT.waylandcompositorwlshell_private.name = QtWaylandCompositorWLShell
+QT.waylandcompositorwlshell_private.module =
+QT.waylandcompositorwlshell_private.libs = $$QT_MODULE_LIB_BASE
+QT.waylandcompositorwlshell_private.includes = $$QT_MODULE_INCLUDE_BASE/QtWaylandCompositorWLShell/6.8.2 $$QT_MODULE_INCLUDE_BASE/QtWaylandCompositorWLShell/6.8.2/QtWaylandCompositorWLShell
+QT.waylandcompositorwlshell_private.frameworks = 
+QT.waylandcompositorwlshell_private.depends = waylandcompositorwlshell
+QT.waylandcompositorwlshell_private.uses = 
+QT.waylandcompositorwlshell_private.module_config = v2 internal_module
+QT.waylandcompositorwlshell_private.enabled_features = 
+QT.waylandcompositorwlshell_private.disabled_features = 

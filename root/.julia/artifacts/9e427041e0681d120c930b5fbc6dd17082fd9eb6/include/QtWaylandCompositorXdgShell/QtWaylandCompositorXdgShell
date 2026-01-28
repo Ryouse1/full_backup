@@ -1,0 +1,5 @@
+#ifndef QT_QTWAYLANDCOMPOSITORXDGSHELL_MODULE_H
+#define QT_QTWAYLANDCOMPOSITORXDGSHELL_MODULE_H
+#include <QtWaylandCompositorXdgShell/QtWaylandCompositorXdgShellDepends>
+#include "qtwaylandcompositorxdgshellversion.h"
+#endif
