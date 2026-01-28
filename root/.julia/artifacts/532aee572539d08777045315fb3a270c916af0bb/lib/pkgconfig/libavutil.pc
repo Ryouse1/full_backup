@@ -1,0 +1,14 @@
+prefix=${pcfiledir}/../..
+exec_prefix=${prefix}
+libdir=/workspace/destdir/lib
+includedir=/workspace/destdir/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 60.8.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil 
+Libs.private: -lm -L/workspace/destdir/lib/pkgconfig/../.. -lssl -L/workspace/destdir/lib/pkgconfig/../.. -ldl -pthread -lcrypto -ldl -pthread -latomic -pthread
+Cflags: -I${includedir}

@@ -1,0 +1,9 @@
+prefix=${pcfiledir}/../..
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: Libinput
+Description: Input device library
+Version: 1.28.1
+Libs: -L${libdir} -linput
+Cflags: -I${includedir}
