@@ -1,0 +1,24 @@
+# LINT.IfChange(google_colab_deps)
+google-auth==2.43.0  # Required by google-colab
+ipykernel==6.17.1  # Required by google-colab
+ipython==7.34.0  # Required by google-colab
+jupyter-server==2.14.0  # Required by google-colab
+ipyparallel==8.8.0  # Required by google-colab
+# pandas and pandas-stubs should be kept at the same version.
+# LINT.IfChange(google_colab_pandas_opt_deps)
+pandas==2.2.2  # Required by google-colab
+pandas-stubs==2.2.2.240909  # Should be kept in sync with pandas version
+# LINT.ThenChange(//depot/google3/research/colab/prober/notebooks/external/cpu.ipynb)
+portpicker==1.5.2  # Required by google-colab
+requests==2.32.4  # Required by google-colab
+tornado==6.5.1  # Required by google-colab, colab-fileshim
+# LINT.ThenChange(//depot/google3/third_party/py/google/colab/pkg_files/setup.py)
+
+absl-py==1.4.0 # Required by colab-fileshim
+debugpy==1.8.15  # Required by the variable explorer
+# Upgrading to 8.* breaks text widgets, see b/243089224
+ipywidgets==7.7.1  # Required for interactive output widgets
+matplotlib==3.10.0  # Undeclared dep of IPython
+psutil==5.9.5  # Required by the resource monitor
+seaborn==0.13.2  #  Required by quickchart: b/295376893
+traitlets==5.7.1 # Required by colab-fileshim

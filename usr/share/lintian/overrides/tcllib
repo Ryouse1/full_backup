@@ -1,0 +1,2 @@
+# This dependency is a dummy one (there's no either iproute2 or freebsd-net-tools on hurd)
+tcllib: depends-on-essential-package-without-using-version depends: hurd
