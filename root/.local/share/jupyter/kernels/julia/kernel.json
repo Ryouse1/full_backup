@@ -1,0 +1,21 @@
+{
+ "argv": [
+  "/usr/local/bin/julia",
+  "-i",
+  "--color=yes",
+  "-e",
+  "import IJulia; IJulia.run_kernel()",
+  "{connection_file}"
+ ],
+ "display_name": "julia 1.11",
+ "env": {
+  "JULIA_NUM_THREADS": "auto"
+ },
+ "interrupt_mode": "signal",
+ "language": "julia",
+ "metadata": {
+  "colab": {
+   "socketio_version": "2.5.1"
+  }
+ }
+}

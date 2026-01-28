@@ -1,0 +1,143 @@
+[[EarCut]]
+arch = "aarch64"
+git-tree-sha1 = "ed90c0f73c4c7782a2d211224d3a2f15c4db508f"
+os = "macos"
+
+    [[EarCut.download]]
+    sha256 = "bd195094210bbbd743bcabdaf6e3817813402f795c4280cc520be80b6d296945"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.aarch64-apple-darwin.tar.gz"
+[[EarCut]]
+arch = "aarch64"
+git-tree-sha1 = "d3fd38a4c2dd8dcbe3f0aa988c53aca2f9ef0113"
+libc = "glibc"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "4493fe08932371e5790c9c28d52acc6aad68970916823594c874ca4c1a2a3140"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.aarch64-linux-gnu.tar.gz"
+[[EarCut]]
+arch = "aarch64"
+git-tree-sha1 = "911cef6ff9c3cfbe466204883afcd8eeaa67162d"
+libc = "musl"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "512e8dad98436baca8c57d436d25adc336b5bd5d236e9ec362ab7dfdc048c069"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.aarch64-linux-musl.tar.gz"
+[[EarCut]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8e739bff28a6dc60c666e7a0b6cc71b4f90e5cff"
+libc = "glibc"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "6c223e095ad14d80c2953aaf0c6387771202a49696466486f6f2111d0d0729e8"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.armv6l-linux-gnueabihf.tar.gz"
+[[EarCut]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1f34aeeb2c2ee16eaa73f49171690d3bb7e96f8e"
+libc = "musl"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "198c0cff66ba5d7b1332e4486503d6f9712d540fd4e5ac534cfa0ba61b7cb4bd"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.armv6l-linux-musleabihf.tar.gz"
+[[EarCut]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ab4eb98f46229b76398deb322519216e13efb11e"
+libc = "glibc"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "e5f44ca173391e75b634d335fed8c9b08006d4631c762d07909eae0a6bcb8165"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.armv7l-linux-gnueabihf.tar.gz"
+[[EarCut]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4cff0cb0e8e0493c8b3f8fcecdca4a03c4d4970f"
+libc = "musl"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "eaa7ac6c1fb381cf969d07b8b7bc28eb8ecdcf6f77ede50804a8ca80bec15752"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.armv7l-linux-musleabihf.tar.gz"
+[[EarCut]]
+arch = "i686"
+git-tree-sha1 = "80abc7ae9c3af1ee2308a8ff09bc6f0966380fbb"
+libc = "glibc"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "af6602449b68fa7f448d0c81fa15c48da191c8a5af330fdf1985ae81a2b8fe12"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.i686-linux-gnu.tar.gz"
+[[EarCut]]
+arch = "i686"
+git-tree-sha1 = "15b25c1027a8f47ecdbd218a6eb2783b4df8350c"
+libc = "musl"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "46313e1ac21fbfbd1ab71fbb91115a7def557453a3a8be7b7830d7892d8b5282"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.i686-linux-musl.tar.gz"
+[[EarCut]]
+arch = "i686"
+git-tree-sha1 = "6c3732044c937db0e20de94f579fa20561e353e8"
+os = "windows"
+
+    [[EarCut.download]]
+    sha256 = "eec1dc40883687ffead0011ab62f611d60000ce454f059d616878d52bbece9d8"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.i686-w64-mingw32.tar.gz"
+[[EarCut]]
+arch = "powerpc64le"
+git-tree-sha1 = "7881db88f2b85864cc1dbda29907f2c2ca8bbced"
+libc = "glibc"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "2d08993bc2e7a5d8dd8c80b80549175508d9c1aaaaa5e5cd8d671613cdefdb3e"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.powerpc64le-linux-gnu.tar.gz"
+[[EarCut]]
+arch = "x86_64"
+git-tree-sha1 = "16e5458ef1323f0fa1b21aed70be0f5215d117e4"
+os = "macos"
+
+    [[EarCut.download]]
+    sha256 = "dd040ca848974f8d4b5f6a81220cea949a3be3fe7852196ac31b8b80ee60ee8d"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.x86_64-apple-darwin.tar.gz"
+[[EarCut]]
+arch = "x86_64"
+git-tree-sha1 = "9cfa1f93276d8e380806650071f8447e8e38301f"
+libc = "glibc"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "795a1337bc54b9c69b48a8e27bc09f0ed65497368dec6d37622e30f20c26cea5"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.x86_64-linux-gnu.tar.gz"
+[[EarCut]]
+arch = "x86_64"
+git-tree-sha1 = "24b94209896dba444b9de46ab30318a96704b8bc"
+libc = "musl"
+os = "linux"
+
+    [[EarCut.download]]
+    sha256 = "a77ca4ebb8d2d52c41c8890301851fe5d2b87b57e090a529ab906d022be9a9be"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.x86_64-linux-musl.tar.gz"
+[[EarCut]]
+arch = "x86_64"
+git-tree-sha1 = "1402e41ab2024c2d6957b814a6c44a0955f863ab"
+os = "freebsd"
+
+    [[EarCut.download]]
+    sha256 = "bbd7c44d8604a04e20a41271fb4d1a624fbf1f6e9014db222a7bb207bd574df4"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.x86_64-unknown-freebsd.tar.gz"
+[[EarCut]]
+arch = "x86_64"
+git-tree-sha1 = "9d60a95eaba43b663e4ef01d92eb23d510fc8006"
+os = "windows"
+
+    [[EarCut.download]]
+    sha256 = "133fcd89472a8c47a6f34380658cdb00df542cde144a6a5d51e08fdae4da8698"
+    url = "https://github.com/JuliaBinaryWrappers/EarCut_jll.jl/releases/download/EarCut-v2.2.4+0/EarCut.v2.2.4.x86_64-w64-mingw32.tar.gz"

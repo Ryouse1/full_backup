@@ -1,0 +1,24 @@
+Log file created at: 2026/01/28 12:37:36
+Running on machine: 78fb33df1605
+Binary: Built on Dec 31 1969 16:00:00 -0800 (0)
+Binary: Built at redacted@redacted:.
+Binary: Built with gc go1.26-20260115-RC01 cl/856841426 +532e320349 X:fieldtrack,boringcrypto,simd for linux/amd64
+Previous log: <none>
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0128 12:37:36.098075       1 log_spam.go:43] Process id 88
+I0128 12:37:36.098750       1 log_spam.go:47] Current working directory /
+I0128 12:37:36.098760       1 log_spam.go:49] Current timezone is UTC (currently UTC +00:00)
+I0128 12:37:36.098808       1 log_spam.go:50] Built on Dec 31 1969 16:00:00 -0800 (0)
+ at redacted@redacted:.
+ as //research/colab/dap_multiplexer:dap_multiplexer
+ with gc go1.26-20260115-RC01 cl/856841426 +532e320349 X:fieldtrack,boringcrypto,simd for linux/amd64
+ from changelist 0 in a unknown client based on redacted
+Build tool: unknown
+Build target: //research/colab/dap_multiplexer:dap_multiplexer
+Build id: unknown
+Build GOEXPERIMENT: unknown
+Built with PGO profile: unknown
+Built with Go Protobuf OFS overrides: unknown
+I0128 12:37:36.098817       1 log_spam.go:51] Command line arguments:
+I0128 12:37:36.098821       1 log_spam.go:53]  argv[0]: '/usr/local/bin/dap_multiplexer'
+I0128 12:37:36.098825       1 log_spam.go:53]  argv[1]: '--domain_socket_path=/tmp/debugger_u4edy95j1'
