@@ -1,0 +1,316 @@
+[[GettextRuntime]]
+arch = "aarch64"
+git-tree-sha1 = "ccab86a3f5c2e11b743d3c30a624a3a95c3dc170"
+os = "macos"
+
+    [[GettextRuntime.download]]
+    sha256 = "1532a6a6786c8e02f35c7da13c1fabff1dfa03a40215acf38a6a5abe75d6e875"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.aarch64-apple-darwin.tar.gz"
+[[GettextRuntime]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "732726ae7cd094da7ce9c5a995fd4551e41d5054"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "7dd282d4037f42095259f42397b7224064764fc62f208fbd41b0ff6a2d388acb"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.aarch64-linux-gnu-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ff3f76ca52ba02bff3cfe0cdd85a0c7e9ecc12ef"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "827f6e6c70b106d926ec5c757e74e4f28450f54def95e61753a1cde1a7206d6c"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.aarch64-linux-gnu-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "28b31ab379fbe6c6926acf1a9e1f1ed8a63db4bc"
+libc = "musl"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "9409a74b10b3471819ad73affdb371140f55bd2f052750283ce74ffb2720e4ff"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.aarch64-linux-musl-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "112b5f4765cea2b3a4b4f5de0caff12e4b5a4274"
+libc = "musl"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "c7816fad0a987b1c38a77da4dd0ccc58b7476c7322fea3936e9bb43d3d82fe5b"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.aarch64-linux-musl-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "aarch64"
+git-tree-sha1 = "063243fab416e8e93a8f8c6ce0f8476d1be6f921"
+os = "freebsd"
+
+    [[GettextRuntime.download]]
+    sha256 = "e3615113dabd9ac5f3d317b3debdd0d6bb908dbbaad4d77eca4d5fe1537a8eeb"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.aarch64-unknown-freebsd.tar.gz"
+[[GettextRuntime]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3f03a5f9821032d2936ffeaba51bfc79df5c6f82"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "682e35944eac020ac70106e8248d879668e2f727832151e25b1ddebb7a1e14c7"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ffb31c68bc73b981763c3feecf20d9c43820fa18"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "da05558b8b5bf1e876b69e7faf495170e6db80f2c1539eebd8bcde33affddb0e"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a2b526207e59f5684ab1ee46aca1c674b3c19947"
+libc = "musl"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "95bd81950d31cf996d698d3dbd2e0f35a28a67ad7bd322a0b894b56e5e9c022f"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "415db377657bb6bddcc34ae53ee7eb2057822f64"
+libc = "musl"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "4576a5d6392338a0f8d71f58055f3cec06707e9788f14c00ac48cfbb4a2b1183"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6025aec82a0cec02520e1a5fa7fe90bd31607bb2"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "512618753a35256a03efa465cc72db74a6b1b6eb0aaf315bb9abeb1a6839b9b3"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7baef752d40701a8efcf3c87266afde3b391a38c"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "4ea46769b4474bc5b957793a927a1c63cc0aa3e021a82e04a7d6dc00253647ae"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "58af7a4e3f228f4a1a22d6837b008095052a573d"
+libc = "musl"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "784ee39ca40e832d93d22cfb5866a5b61d9acb91c224ac862cdbec456f4d0068"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a33bc801081157d2d4cb75d10f67d6cbe467e24"
+libc = "musl"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "bdedaf5ec6e8fe42a30e63140474d04925a89ba2b2366a0300c680c775671293"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "39ae634acf770ac9a5ebb2750754292d9431240a"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "702cb7192fbe0f43fe7a1320a687e9a2ed4575cf2036381f3671ff9078a22304"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.i686-linux-gnu-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "248a421b3a13ab8e5e76027b56ddfb8d2f89a427"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "5d75a16e64f5521f8853cba08786cbcf7e708fb538d4a884a01f4bfa93c0fc6f"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.i686-linux-gnu-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "45c2cee82a614750a971bd68ec4508c7f10ccb30"
+libc = "musl"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "cd8d650078c9a5bf5c6c164b740f44dc06fea301c7d7552fe97b181ddeda0e50"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.i686-linux-musl-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "293a84d40469a4c84b17e478f4479a03b882ba21"
+libc = "musl"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "dddf055c1fc220a2b12b884ee36c9adffe5dddc4d3e7fee74e2691788da62ff9"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.i686-linux-musl-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "da774550b5f38d2933d41428e0171c7974343bb4"
+os = "windows"
+
+    [[GettextRuntime.download]]
+    sha256 = "2d848fc9f8ce75b00f67dfed73e2acd187c8c705080318d3dc3cbf0e6895791b"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.i686-w64-mingw32-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "65ba0231e8118665ca2c770f6c96ca6a2a18b2f8"
+os = "windows"
+
+    [[GettextRuntime.download]]
+    sha256 = "21f51cf1e6ae4716faeacf79eecd352047bdd9f89e3e5e4c1dc04e351ad04dcf"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.i686-w64-mingw32-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e7caf4d7a7cfdbf3c5599612989e9e2107654251"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "527444659290fab8fc38155c8cb69052f52d4f4c688eee3e3646473f52704cb3"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3df987df35844b0b1bf7f8ef5556abb884557491"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "a6cef0ea7e718fef275707b4db0090cebbbfeea3b48a5c16c0bedfd05ba60713"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "81be854e1f17b92cb73d615cb88626ca91acfc78"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "68137360b1db7de767935bc7daf9f4d31c2d2fe79916daf2a45c8b23e37ae67d"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.riscv64-linux-gnu-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "257c91eaea51f8cdca1292c3eb0dbbb2c1d435dd"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "7838b8ae35d7141b1c22cca74c6ba2f4836cb5e650cad251122314d85e120e59"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.riscv64-linux-gnu-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "x86_64"
+git-tree-sha1 = "8e30be9f16397d8d72f0fe634b3d90acd8b9a363"
+os = "macos"
+
+    [[GettextRuntime.download]]
+    sha256 = "8df55510fb7e9027dd020b7b544c8a015a093e5d31f30663cabcb5a1028e1d45"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.x86_64-apple-darwin.tar.gz"
+[[GettextRuntime]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cc4824dfd6213831a8d67bd5fc6013ceb55b5539"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "3807475fe35241e112f79542b7bb79005fc74cc18fb59d4a11331517d4780041"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "020f522505f193c968b0a9d6199f7de2c4748cd2"
+libc = "glibc"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "4aaa32bca756aba6f256bd14a356feb935f4aded7f585cb5e92aaf931877d216"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6c62b75bf2a599b9708be7880c74a77b0c8566a5"
+libc = "musl"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "d6edc4e02bfb5b939e4f037df48fa923725c5380cb60d78c4d81a000e2320540"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.x86_64-linux-musl-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "009a75a7b8445980ba884d4337db7d950d119b7b"
+libc = "musl"
+os = "linux"
+
+    [[GettextRuntime.download]]
+    sha256 = "3969b90d122608999e163565067d87154afba97b2f1498aa148179c53fb8dfe4"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.x86_64-linux-musl-cxx11.tar.gz"
+[[GettextRuntime]]
+arch = "x86_64"
+git-tree-sha1 = "d43571418ee8a21579633ee9f765f0cd75c04eae"
+os = "freebsd"
+
+    [[GettextRuntime.download]]
+    sha256 = "ec498d1a6a3ef1386c6de67a88add8d09f0a125cf070f2d0a4cfdcf15211bc2e"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.x86_64-unknown-freebsd.tar.gz"
+[[GettextRuntime]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ef6e8a7883832ace7531bb71f9b5ebde1aa803e"
+os = "windows"
+
+    [[GettextRuntime.download]]
+    sha256 = "2cde6ce88a0c5defde5f766b3ff78d8c08a58f070a8ab3da1bd53af7885fde88"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.x86_64-w64-mingw32-cxx03.tar.gz"
+[[GettextRuntime]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "58a307887a7b823f6a7cac7e6337710ec14aced2"
+os = "windows"
+
+    [[GettextRuntime.download]]
+    sha256 = "68a43c4207cf78bd541493b18299a828c38d20fee9685f5b42486fc645f28fd2"
+    url = "https://github.com/JuliaBinaryWrappers/GettextRuntime_jll.jl/releases/download/GettextRuntime-v0.22.4+0/GettextRuntime.v0.22.4.x86_64-w64-mingw32-cxx11.tar.gz"

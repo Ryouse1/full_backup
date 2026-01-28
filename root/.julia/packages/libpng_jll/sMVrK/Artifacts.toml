@@ -1,0 +1,160 @@
+[[libpng]]
+arch = "aarch64"
+git-tree-sha1 = "1d0eae2792856ec5c66a512d0bfac7e112aa3662"
+os = "macos"
+
+    [[libpng.download]]
+    sha256 = "e04409a4e6efaf245edc7ed7ec4948b7b57b98d306410310cad4e1c0485a4453"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.aarch64-apple-darwin.tar.gz"
+[[libpng]]
+arch = "aarch64"
+git-tree-sha1 = "826b2b0f1780135f620fbf75cc52172260ef3a12"
+libc = "glibc"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "2815dbac65ce21efc7cb8d779b93877c395af523bb39bc5e89c035cbc021f76e"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.aarch64-linux-gnu.tar.gz"
+[[libpng]]
+arch = "aarch64"
+git-tree-sha1 = "5e63fe4eb0f05eccda1d77c5a29a6f477dfe24a4"
+libc = "musl"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "88ed50ee92f659a6041aa3b17e811bec4819cda19e63a730df6a4372a63e85f2"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.aarch64-linux-musl.tar.gz"
+[[libpng]]
+arch = "aarch64"
+git-tree-sha1 = "04ee222f4b6afa2b4b3965dcd316d7a9dbf89b39"
+os = "freebsd"
+
+    [[libpng.download]]
+    sha256 = "8920fcc54737736d4be39d5d66223b98900eaa6ded25abf8c1c075c11fe12f90"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.aarch64-unknown-freebsd.tar.gz"
+[[libpng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "46be12c639fa2027d7f031c274359a8141381826"
+libc = "glibc"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "932237832705387d78b5550413e10fd5124dde2d1c6e6e4eb8c6d14a122d71b1"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.armv6l-linux-gnueabihf.tar.gz"
+[[libpng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "139e6d798e45500fd14af0977b9aa59a073b0d48"
+libc = "musl"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "38b115bc349297494924fb24494e50523b4f95bf5622bdebfbc0ff6b2c86b5cc"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.armv6l-linux-musleabihf.tar.gz"
+[[libpng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "03252ec9925a66525896b6bc0dfcbfa9f5321ce0"
+libc = "glibc"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "8eba786844fdc78309ab28c3e12a598c09a8281a95d4fd0fddf86ba26f4d7117"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.armv7l-linux-gnueabihf.tar.gz"
+[[libpng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "783088eafe2fea2d56f57971113219b54a69cd86"
+libc = "musl"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "1ecd88e20acd4d3a7d7e0e936fea1a3f506a0ec929315002a42c3145553e663f"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.armv7l-linux-musleabihf.tar.gz"
+[[libpng]]
+arch = "i686"
+git-tree-sha1 = "d7668296abdbdf52c4c3646c8cbbd8a04f6192ec"
+libc = "glibc"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "9a99f05b516e48b81616961a4581475b96f38f2f93e7ccadcc5a3b6cd0964679"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.i686-linux-gnu.tar.gz"
+[[libpng]]
+arch = "i686"
+git-tree-sha1 = "dd62a0451a10b02cbe436ccbad936790f0bb3a5a"
+libc = "musl"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "e8e3b9718aab394434c65eab0247815276299a3494a48f380475333c6e07eff2"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.i686-linux-musl.tar.gz"
+[[libpng]]
+arch = "i686"
+git-tree-sha1 = "d1d565bc0c4364be6011265f94e765d20121c259"
+os = "windows"
+
+    [[libpng.download]]
+    sha256 = "90cbb658246154762b4465b5a6a2699c3800038fc327a5cfdfe018f5609bb8bf"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.i686-w64-mingw32.tar.gz"
+[[libpng]]
+arch = "powerpc64le"
+git-tree-sha1 = "947075046bde6cf4429806e559ee11bf7170e8a7"
+libc = "glibc"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "8d6dd1816e1ca043ffdd925570402685b7c7a64cf830d5d3cae7d1cf26e45c1e"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.powerpc64le-linux-gnu.tar.gz"
+[[libpng]]
+arch = "riscv64"
+git-tree-sha1 = "f326b38029ceca51fdbeb8fb6c6e3a5253addf4a"
+libc = "glibc"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "fcbf71b1da5378a6d96126aeb5f6842bb8ad6676420b74fd48487599a42a3122"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.riscv64-linux-gnu.tar.gz"
+[[libpng]]
+arch = "x86_64"
+git-tree-sha1 = "7a03281bd6bcb8b5176236f5445a2f250fa168e9"
+os = "macos"
+
+    [[libpng.download]]
+    sha256 = "44ec1240a9c27828214b66e46b585b36b87b95c640e32ee598bb033348b9c64d"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.x86_64-apple-darwin.tar.gz"
+[[libpng]]
+arch = "x86_64"
+git-tree-sha1 = "ef8b1fa397e74891d31c82c7eda9edb535de20aa"
+libc = "glibc"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "74d0b8f873c0eeadf235ae5938a8c824a6c4736946db7ea610f4ba7ae4602f8b"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.x86_64-linux-gnu.tar.gz"
+[[libpng]]
+arch = "x86_64"
+git-tree-sha1 = "fc140a9389791f23401afa467d2ba9059e2391bd"
+libc = "musl"
+os = "linux"
+
+    [[libpng.download]]
+    sha256 = "d0e83b0cdb5b5d2cf7f2ef56ea56fce1eee00fe7749b91556f69692355651bdf"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.x86_64-linux-musl.tar.gz"
+[[libpng]]
+arch = "x86_64"
+git-tree-sha1 = "882134b673892d9ce4c06b67de62d8456e4674a2"
+os = "freebsd"
+
+    [[libpng.download]]
+    sha256 = "f909610f9a7faf43ccb35226ad5b848bd91f5ddcc7c2e92be25e5fafc4d0f8e3"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.x86_64-unknown-freebsd.tar.gz"
+[[libpng]]
+arch = "x86_64"
+git-tree-sha1 = "0f2a3f4ec98a8d5606bc1229fe8b243e38f79745"
+os = "windows"
+
+    [[libpng.download]]
+    sha256 = "6f7f3207fe2a7351e54c0ceecf7d09fceee6bdc7e35eb681adb1712aa5cd2ff8"
+    url = "https://github.com/JuliaBinaryWrappers/libpng_jll.jl/releases/download/libpng-v1.6.54+0/libpng.v1.6.54.x86_64-w64-mingw32.tar.gz"
