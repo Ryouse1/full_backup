@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/bin
+/usr/bin/google-pprof
+/usr/bin/pprof-symbolize
+/usr/share
+/usr/share/doc
+/usr/share/doc/google-perftools
+/usr/share/doc/google-perftools/README.gz
+/usr/share/doc/google-perftools/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/google-pprof.1.gz
+/usr/share/doc/google-perftools/changelog.Debian.gz

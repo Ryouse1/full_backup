@@ -1,0 +1,17 @@
+07746ae7f86804705c56d35282ba968a  usr/bin/x86_64-linux-gnu-gfortran-11
+4f4efdfbf2511da8d49c7786e7123843  usr/lib/gcc/x86_64-linux-gnu/11/f951
+59ce6bb5799b144c39012909f86b2164  usr/lib/gcc/x86_64-linux-gnu/11/finclude/ieee_arithmetic.mod
+abd0d192003fbee0e57cee37aed3a15f  usr/lib/gcc/x86_64-linux-gnu/11/finclude/ieee_exceptions.mod
+3acaa4936769bfd165fd1503bc7ae6cf  usr/lib/gcc/x86_64-linux-gnu/11/finclude/ieee_features.mod
+ccf94ac38b73aaf0b773a4ca4cac4b8d  usr/lib/gcc/x86_64-linux-gnu/11/finclude/omp_lib.f90
+93e912deefa0fa533dd50af45a7099ce  usr/lib/gcc/x86_64-linux-gnu/11/finclude/omp_lib.h
+4feb1652a1152db97ffe79140f2528e6  usr/lib/gcc/x86_64-linux-gnu/11/finclude/omp_lib.mod
+452fa845e993d231bb1ab66a9f6ed21b  usr/lib/gcc/x86_64-linux-gnu/11/finclude/omp_lib_kinds.mod
+ccc1d2e4e602d77a4aaca6d3d42153d4  usr/lib/gcc/x86_64-linux-gnu/11/finclude/openacc.f90
+a3e15677371fd2b52daf951e5f31494e  usr/lib/gcc/x86_64-linux-gnu/11/finclude/openacc.mod
+7a0b77e3f261897394047a914860bb4b  usr/lib/gcc/x86_64-linux-gnu/11/finclude/openacc_kinds.mod
+423e5d861550f0c628e17c04bc57baa1  usr/lib/gcc/x86_64-linux-gnu/11/finclude/openacc_lib.h
+2d72d9169741150e8cff635fffd8be37  usr/lib/gcc/x86_64-linux-gnu/11/libgfortran.spec
+2d807094cb85181eca62c50d2ddf39e4  usr/share/doc/gcc-11-base/fortran/changelog.gz
+9c12992df022e2b3b2a1747240357f25  usr/share/lintian/overrides/gfortran-11
+2080c5574abb43db2f143cabc0ed584e  usr/share/man/man1/x86_64-linux-gnu-gfortran-11.1.gz

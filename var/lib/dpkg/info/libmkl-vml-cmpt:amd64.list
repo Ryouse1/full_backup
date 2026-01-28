@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libmkl_vml_cmpt.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libmkl-vml-cmpt
+/usr/share/doc/libmkl-vml-cmpt/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmkl-vml-cmpt
+/usr/share/doc/libmkl-vml-cmpt/changelog.Debian.gz

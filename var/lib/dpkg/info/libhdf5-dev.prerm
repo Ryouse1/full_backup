@@ -1,0 +1,67 @@
+#!/bin/bash
+
+set -e
+
+function read_alt_slaves () {
+  # See #973261
+  local -n slaves=$1
+  set -- $(echo "$2" | sed -n '/Slaves:/{: while;n;s/^ //;T end;p;b while;: end;q}')
+  while [ -n "$1" ]; do
+    slaves["$1"]="$2"
+    shift 2
+  done
+}
+
+if [ "$1" != "upgrade" ]; then
+  if [ "serial" != "serial" ]; then
+    update-alternatives \
+	--remove h5pcc /usr/bin/h5pcc.serial
+  fi
+  update-alternatives \
+	--remove hdf5.pc /usr/lib/x86_64-linux-gnu/pkgconfig/hdf5-serial.pc
+
+  # Remove the slave hdf5-mpi.pc from the related 'mpi' flavor alternative
+  # See #953021
+  # There is no way to simply remove slave. We must parse the existing
+  # mpi alternatives, then reinstall the whole related alternative minus
+  # the unwanted --slave part
+  if [ "serial" != "serial" ]; then
+    # Parse existing mpi alternatives
+    mpi_alt=$(update-alternatives --query mpi)
+    mpi_alt_sig=$(echo "$mpi_alt" | sed '/^$/q')
+    mpi_alt_impl=$(echo "$mpi_alt" | sed -n -e '\!^Alternative: /usr/bin/mpicc.serial!p' -e '0,\!^Alternative: /usr/bin/mpicc.serial!d' -e '/^$/q' -e 'p')
+    mpi_impl_priority=$(echo "$mpi_alt_impl" | sed -n '/^Priority: /{s/Priority: \(.*\)$/\1/;p}')
+    declare -A slave_links slave_targets
+    read_alt_slaves slave_links "$mpi_alt_sig"
+    read_alt_slaves slave_targets "$mpi_alt_impl"
+    # At this point:
+    # * slave_links holds all the slaves name,link pairs
+    # * slave_targets holds all the slaves name,target pairs for our mpi flavor
+    # Construct the slaves related part of the update-alternatives command
+    current_slaves=
+    for key in "${!slave_targets[@]}"; do
+      # Do not keep the 'hdf5-mpi.pc' slave (we want it removed)
+      if [ "$key" = "hdf5-mpi.pc" ]; then
+        continue
+      fi
+      current_slaves="$current_slaves --slave ${slave_links[$key]} $key ${slave_targets[$key]}"
+    done
+    # Re-install the whole alternative minus our 'hdf5-mpi.pc' slave
+    update-alternatives --install /usr/bin/mpicc mpi /usr/bin/mpicc.serial "$mpi_impl_priority" $current_slaves
+
+    # Finally, re-parse the mpi alternatives
+    # If there is no 'hdf5-mpi.pc' slave left we have to remove this choice from
+    # the hdf5.pc alternatives
+    mpi_alt=$(update-alternatives --query mpi)
+    mpi_alt_sig=$(echo "$mpi_alt" | sed '/^$/q')
+    declare -A slave_links_left
+    read_alt_slaves slave_links_left "$mpi_alt_sig"
+    if [ -z "${slave_links_left[hdf5-mpi.pc]}" ]; then
+      update-alternatives --remove hdf5.pc /usr/lib/x86_64-linux-gnu/pkgconfig/hdf5-mpi.pc
+    fi
+  fi
+fi
+
+
+
+exit 0

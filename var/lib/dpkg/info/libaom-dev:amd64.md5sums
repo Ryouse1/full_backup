@@ -1,0 +1,13 @@
+7a37302869881e763984fe2d40866e0d  usr/include/aom/aom.h
+726933d393c54f50bceb83d6a6b5da10  usr/include/aom/aom_codec.h
+f40c76a53359dfbef73213f53e47eb72  usr/include/aom/aom_decoder.h
+f59f66dff5e4fe08e69be2171ef22d2f  usr/include/aom/aom_encoder.h
+2563bfcc0ed8417749cdac7a8638aea1  usr/include/aom/aom_external_partition.h
+a0ef64bedec9e89c15d0b791f75c598f  usr/include/aom/aom_frame_buffer.h
+cd667a1de22d83fdc9ad83d980250dcc  usr/include/aom/aom_image.h
+9b7eafc5e1c931811df65305bb6c7566  usr/include/aom/aom_integer.h
+58d65ab79abca7ad599b4548bcf3531d  usr/include/aom/aomcx.h
+0ca7994bd8900304d85de90cf2ea921e  usr/include/aom/aomdx.h
+77e377d365c80a8e535b9b4147f8a165  usr/lib/x86_64-linux-gnu/libaom.a
+98dc9953d2ccd3acea8f1886ce5742df  usr/lib/x86_64-linux-gnu/pkgconfig/aom.pc
+24cff2e0fbfd7464910d8f72017ad803  usr/share/doc/libaom-dev/copyright

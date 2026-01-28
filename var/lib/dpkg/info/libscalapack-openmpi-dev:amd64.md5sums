@@ -1,0 +1,7 @@
+4ef9a215f016c030f5811676ea15b86b  usr/lib/cmake/scalapack-2.1.0.openmpi/scalapack-config-version.cmake
+b2077bdf6a5bb5252f1bd9f87463f3db  usr/lib/cmake/scalapack-2.1.0.openmpi/scalapack-config.cmake
+20cf34980a1580f765db1b2af7571dc1  usr/lib/cmake/scalapack-2.1.0.openmpi/scalapack-targets-none.cmake
+f615a2b07d3bd7fb25e865a09774ded6  usr/lib/cmake/scalapack-2.1.0.openmpi/scalapack-targets.cmake
+5186a1557ef3bc033ac263e4c4b83ba1  usr/lib/x86_64-linux-gnu/pkgconfig/scalapack-openmpi.pc
+f1a5efbc2c2b7fc3348067874c1f728b  usr/share/doc/libscalapack-openmpi-dev/README.gz
+5c34a1b5ae3038bc2fa59b519e36a51d  usr/share/doc/libscalapack-openmpi-dev/copyright

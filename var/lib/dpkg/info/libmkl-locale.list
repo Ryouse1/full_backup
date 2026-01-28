@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libmkl-locale
+/usr/share/doc/libmkl-locale/changelog.Debian.gz
+/usr/share/doc/libmkl-locale/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmkl-locale
+/usr/share/locale
+/usr/share/locale/en_US
+/usr/share/locale/en_US/mkl_msg.cat

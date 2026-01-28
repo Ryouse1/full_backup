@@ -1,0 +1,6 @@
+0804e4a02601e93b1d421d750a3e23e8  usr/bin/Xvfb
+fae68b5e477fd7e5a222797ec0340a94  usr/bin/xvfb-run
+29814439638f3cd53502ba5fd3a85492  usr/share/doc/xvfb/changelog.Debian.gz
+5df87950af51ac2c5822094553ea1880  usr/share/doc/xvfb/copyright
+b46f02f6f0704de197c05190296d9026  usr/share/man/man1/Xvfb.1.gz
+ec9118a1a6321f745c3b174cf578a4d7  usr/share/man/man1/xvfb-run.1.gz

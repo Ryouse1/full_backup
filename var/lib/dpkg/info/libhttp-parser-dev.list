@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/include
+/usr/include/http_parser.h
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libhttp_parser.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libhttp-parser-dev
+/usr/share/doc/libhttp-parser-dev/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libhttp-parser-dev
+/usr/lib/x86_64-linux-gnu/libhttp_parser.so
+/usr/share/doc/libhttp-parser-dev/changelog.Debian.gz

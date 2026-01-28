@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/dh-elpa
+/usr/lib/dh-elpa/helper
+/usr/lib/dh-elpa/helper/install
+/usr/lib/dh-elpa/helper/remove
+/usr/share
+/usr/share/doc
+/usr/share/doc/dh-elpa-helper
+/usr/share/doc/dh-elpa-helper/NEWS.Debian.gz
+/usr/share/doc/dh-elpa-helper/changelog.gz
+/usr/share/doc/dh-elpa-helper/copyright

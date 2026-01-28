@@ -1,0 +1,16 @@
+f6435a43636a4879db288c5e574c5c6e  usr/include/superlu/slu_Cnames.h
+7080ab6ab1c6bdd9721bdec7f20a18a6  usr/include/superlu/slu_cdefs.h
+707bd15fa441c8430cc5eb08f8e556a6  usr/include/superlu/slu_dcomplex.h
+1e9f1abc83ae964d475e93617980468e  usr/include/superlu/slu_ddefs.h
+67a7964d10321d6d99f24a7a2d20c155  usr/include/superlu/slu_scomplex.h
+7f21d60b17db208498a9267997ab4971  usr/include/superlu/slu_sdefs.h
+578c3d01cdfb325c090b2053d248249a  usr/include/superlu/slu_util.h
+839da53c997687dfc4b2d7a5c62b8393  usr/include/superlu/slu_zdefs.h
+f68fb00cf9b67180824de31916b7bcba  usr/include/superlu/superlu_enum_consts.h
+aef039210b62fc0a6bb413ccf579d316  usr/include/superlu/supermatrix.h
+bad746043217f26e844001752d111cb7  usr/lib/x86_64-linux-gnu/cmake/superlu/superluConfig.cmake
+a29fc9e6d3517a51125c0048b03962ce  usr/lib/x86_64-linux-gnu/cmake/superlu/superluConfigVersion.cmake
+3ae4579f1ab95e9cdad1df18fc744892  usr/lib/x86_64-linux-gnu/cmake/superlu/superluTargets-none.cmake
+14da195354f61b7db317400c15530e5d  usr/lib/x86_64-linux-gnu/cmake/superlu/superluTargets.cmake
+c980065d38f62e9a9f7c59be250e56f0  usr/lib/x86_64-linux-gnu/pkgconfig/superlu.pc
+a62852cb8b779f08eb8ab03f81ec8c87  usr/share/doc/libsuperlu-dev/copyright

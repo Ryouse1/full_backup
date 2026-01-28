@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libmkl_mc3.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libmkl-mc3
+/usr/share/doc/libmkl-mc3/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmkl-mc3
+/usr/share/doc/libmkl-mc3/changelog.Debian.gz

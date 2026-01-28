@@ -1,0 +1,6 @@
+f25cec0cf31c557b16c569e1901878bd  usr/include/fontconfig/fcfreetype.h
+85e725e25bbda2c2f3ee3fdf90708faf  usr/include/fontconfig/fcprivate.h
+74710ecd6dfb359d6d1cf05935691155  usr/include/fontconfig/fontconfig.h
+04a766c02cf65e4f2f825eafcea2e56d  usr/lib/x86_64-linux-gnu/libfontconfig.a
+29dac59d0ecfab5d45f42cb27ec59b9b  usr/lib/x86_64-linux-gnu/pkgconfig/fontconfig.pc
+4648df9e8d6215ae7dd16ce863b16967  usr/share/doc/libfontconfig-dev/copyright

@@ -1,0 +1,8 @@
+b5282eee5451291f9ff86a5c3f690ac7  usr/lib/x86_64-linux-gnu/libcmumps_seq.a
+75d5dd064b9fd6841a383dc9cca031ec  usr/lib/x86_64-linux-gnu/libdmumps_seq.a
+74a538f0b1b7cea640d1f8321c81cd0a  usr/lib/x86_64-linux-gnu/libmpiseq_seq.a
+b398e2fd43409f91880053b1a4c977fc  usr/lib/x86_64-linux-gnu/libmumps_common_seq.a
+5a802f2cd6868244bd63736c07146f9c  usr/lib/x86_64-linux-gnu/libpord_seq.a
+e791f1d12b670e4fc256ce5cc1433c26  usr/lib/x86_64-linux-gnu/libsmumps_seq.a
+23116fb8f3390f91fc8bf5d53c439e47  usr/lib/x86_64-linux-gnu/libzmumps_seq.a
+48969625bc55f42a42355116eb3d0401  usr/share/doc/libmumps-seq-dev/copyright

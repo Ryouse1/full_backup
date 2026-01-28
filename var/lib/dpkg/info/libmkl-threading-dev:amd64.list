@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libmkl_gnu_thread.a
+/usr/lib/x86_64-linux-gnu/libmkl_intel_thread.a
+/usr/lib/x86_64-linux-gnu/libmkl_pgi_thread.a
+/usr/lib/x86_64-linux-gnu/libmkl_sequential.a
+/usr/lib/x86_64-linux-gnu/libmkl_tbb_thread.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libmkl-threading-dev
+/usr/share/doc/libmkl-threading-dev/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmkl-threading-dev
+/usr/share/doc/libmkl-threading-dev/changelog.Debian.gz

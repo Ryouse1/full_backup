@@ -1,0 +1,46 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_fortran_mod/0.21
+# May be installed multiple times for different canoncomp
+multiarch="x86_64-linux-gnu"
+base="gfortran-mod-15"
+canoncomp='gfortran-10'
+
+mkdir -p /usr/lib/$multiarch/fortran/$base
+if ! test -x /usr/lib/$multiarch/fortran/$canoncomp ; then
+  ln -sf /usr/lib/$multiarch/fortran/$base /usr/lib/$multiarch/fortran/$canoncomp
+fi
+# End automatically added section
+# Automatically added by dh_fortran_mod/0.21
+# May be installed multiple times for different canoncomp
+multiarch="x86_64-linux-gnu"
+base="gfortran-mod-15"
+canoncomp='x86_64-linux-gnu-gfortran-11'
+
+mkdir -p /usr/lib/$multiarch/fortran/$base
+if ! test -x /usr/lib/$multiarch/fortran/$canoncomp ; then
+  ln -sf /usr/lib/$multiarch/fortran/$base /usr/lib/$multiarch/fortran/$canoncomp
+fi
+# End automatically added section
+# Automatically added by dh_fortran_mod/0.21
+# May be installed multiple times for different canoncomp
+multiarch="x86_64-linux-gnu"
+base="gfortran-mod-15"
+canoncomp='gfortran-8'
+
+mkdir -p /usr/lib/$multiarch/fortran/$base
+if ! test -x /usr/lib/$multiarch/fortran/$canoncomp ; then
+  ln -sf /usr/lib/$multiarch/fortran/$base /usr/lib/$multiarch/fortran/$canoncomp
+fi
+# End automatically added section
+# Automatically added by dh_fortran_mod/0.21
+# May be installed multiple times for different canoncomp
+multiarch="x86_64-linux-gnu"
+base="gfortran-mod-15"
+canoncomp='gfortran-9'
+
+mkdir -p /usr/lib/$multiarch/fortran/$base
+if ! test -x /usr/lib/$multiarch/fortran/$canoncomp ; then
+  ln -sf /usr/lib/$multiarch/fortran/$base /usr/lib/$multiarch/fortran/$canoncomp
+fi
+# End automatically added section

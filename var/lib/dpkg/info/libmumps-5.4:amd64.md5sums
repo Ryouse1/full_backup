@@ -1,0 +1,9 @@
+6b0050015e04b123038394fe2521136a  usr/lib/x86_64-linux-gnu/libcmumps-5.4.0.so
+9edab283eaf9661af53a3787b02d7539  usr/lib/x86_64-linux-gnu/libdmumps-5.4.0.so
+4f61f396ab56e89a7ef56c4397233f27  usr/lib/x86_64-linux-gnu/libmumps_common-5.4.0.so
+9de23a23b82bba925e8681d7ea9f7c62  usr/lib/x86_64-linux-gnu/libpord-5.4.0.so
+c1aabe91a3a4d7cb42b33a13b11f018e  usr/lib/x86_64-linux-gnu/libsmumps-5.4.0.so
+4d1630e822b223ca00806da31821d5af  usr/lib/x86_64-linux-gnu/libzmumps-5.4.0.so
+95e82ca160def47bbbf7df673d5ca505  usr/share/doc/libmumps-5.4/changelog.Debian.gz
+48969625bc55f42a42355116eb3d0401  usr/share/doc/libmumps-5.4/copyright
+8a432033606c91af8a48bd6f9b00ab6a  usr/share/lintian/overrides/libmumps-5.4

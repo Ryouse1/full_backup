@@ -1,0 +1,17 @@
+24742e76711ee17294c3cbb67c9f84a6  usr/include/webp/decode.h
+5fc0bf84c0a93a2ebbcc432f76b39dcf  usr/include/webp/demux.h
+75e5c85979b66ffe938a4174cf8c7088  usr/include/webp/encode.h
+dedafed77ebeb347f8a1bf86d8fb56e1  usr/include/webp/mux.h
+f6ee710c04662910d3455580ace07758  usr/include/webp/mux_types.h
+21e2e3ccdc6fd8cddc2c1c0eca8a9ebc  usr/include/webp/types.h
+0ff40eac085a85a4bb329e523c828a0b  usr/lib/x86_64-linux-gnu/libwebp.a
+da53bd014a341c0b786cf69807b87222  usr/lib/x86_64-linux-gnu/libwebpdemux.a
+e22b1e0dcba651a51c2676543be5bdd8  usr/lib/x86_64-linux-gnu/libwebpmux.a
+6eee67afd043a32d3e9d0b448e9055cd  usr/lib/x86_64-linux-gnu/pkgconfig/libwebp.pc
+94d8dd7c80882fce35690136a96a8281  usr/lib/x86_64-linux-gnu/pkgconfig/libwebpdemux.pc
+c8e84a7b5bc0a6a39973a1d6c020e1ac  usr/lib/x86_64-linux-gnu/pkgconfig/libwebpmux.pc
+e7adb58289cbec9cce31bb6b10c1f464  usr/share/doc/libwebp-dev/AUTHORS
+ee5149fcfcbbdd32051d3440261a9e48  usr/share/doc/libwebp-dev/NEWS.gz
+c6926d0cb07d296f886ab6e0cc5a85b7  usr/share/doc/libwebp-dev/PATENTS
+5d8d30fbc2a9cbf514f79d55cc93dcb2  usr/share/doc/libwebp-dev/README.gz
+017b22367852dc53155f01dcee4f3a85  usr/share/doc/libwebp-dev/copyright

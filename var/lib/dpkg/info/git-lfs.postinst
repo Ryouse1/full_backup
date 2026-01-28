@@ -1,0 +1,9 @@
+#!/bin/sh
+
+set -e
+
+# Set up /etc/gitconfig for git-lfs. The --skip-repo option prevents failure if
+# / is a Git repository with existing non-git-lfs hooks.
+git lfs install --skip-repo --system > /dev/null 2>&1
+
+

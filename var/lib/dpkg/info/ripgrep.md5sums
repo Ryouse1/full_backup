@@ -1,0 +1,6 @@
+0f53fab2823dce2f56100f19ff3a5515  usr/bin/rg
+536668671f52e8e32f9f607aa4b70816  usr/share/doc/ripgrep/TODO.Debian
+4108726423800dc74f7b75fe72d104f2  usr/share/doc/ripgrep/changelog.Debian.gz
+f78c0f9ef0e769e9929d5e942a11ca02  usr/share/doc/ripgrep/copyright
+6e3f065f35dda9960a9a709698e37cce  usr/share/man/man1/rg.1.gz
+7d274f4cd16b398d1b72173ebbf5c492  usr/share/zsh/vendor-completions/_rg

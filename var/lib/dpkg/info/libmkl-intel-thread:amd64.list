@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libmkl_intel_thread.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libmkl-intel-thread
+/usr/share/doc/libmkl-intel-thread/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmkl-intel-thread
+/usr/share/doc/libmkl-intel-thread/changelog.Debian.gz

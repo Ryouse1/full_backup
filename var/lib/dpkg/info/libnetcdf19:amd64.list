@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libnetcdf.so.19
+/usr/share
+/usr/share/doc
+/usr/share/doc/libnetcdf19
+/usr/share/doc/libnetcdf19/changelog.Debian.gz
+/usr/share/doc/libnetcdf19/copyright

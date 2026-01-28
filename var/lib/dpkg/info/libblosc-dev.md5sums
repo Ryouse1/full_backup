@@ -1,0 +1,13 @@
+0c5ad036240e9e4e5ab3c383a8faf743  usr/include/blosc-export.h
+c2a93d8d5c159e9b75893f6fe015a6a1  usr/include/blosc.h
+393c673025ad424d85fbc55e3651386a  usr/lib/x86_64-linux-gnu/libblosc.a
+0f0dd6c7684d2824759d9543edfa0e62  usr/lib/x86_64-linux-gnu/pkgconfig/blosc.pc
+2c0709ca0fc573414b635efce8a3f010  usr/share/doc/libblosc-dev/README_CHUNK_FORMAT.gz
+1cbf0ca65f14954bbe76016a18f0dcf1  usr/share/doc/libblosc-dev/README_THREADED
+21aeaaa67b737edadd8255ac95a310b0  usr/share/doc/libblosc-dev/copyright
+1027c9fe9d328bc1c1d91f23efd15bc5  usr/share/doc/libblosc-dev/examples/README.rst
+86c3019fc879f0c8150a89f357d681e6  usr/share/doc/libblosc-dev/examples/many_compressors.c
+5927f16c56677b033bd513582c9fa995  usr/share/doc/libblosc-dev/examples/multithread.c
+32cf2b921cfc0a68c1278687dd2f4345  usr/share/doc/libblosc-dev/examples/noinit.c
+e054312fe723f1bfc8c4b71db29311de  usr/share/doc/libblosc-dev/examples/simple.c
+66f66fcb28f090c69a93f745114110fe  usr/share/doc/libblosc-dev/examples/win-dynamic-linking.c

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libhdf5_serial_hl_cpp.so.100.1.5
+/usr/share
+/usr/share/doc
+/usr/share/doc/libhdf5-hl-cpp-100
+/usr/share/doc/libhdf5-hl-cpp-100/copyright
+/usr/lib/x86_64-linux-gnu/libhdf5_hl_cpp.so.100
+/usr/lib/x86_64-linux-gnu/libhdf5_serial_hl_cpp.so.100
+/usr/share/doc/libhdf5-hl-cpp-100/RELEASE.txt.gz
+/usr/share/doc/libhdf5-hl-cpp-100/changelog.Debian.gz

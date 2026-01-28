@@ -1,0 +1,6 @@
+5c56c026216c0d0eecaee9a5c7525488  usr/lib/x86_64-linux-gnu/libhttp_parser.so.2.9.4
+f05f25fef0e90fa31d4b67cb045a7893  usr/share/doc/libhttp-parser2.9/AUTHORS
+d58313f93e5e6a4b9a7b8bf6e584a437  usr/share/doc/libhttp-parser2.9/README.md.gz
+0d13cd96de08c42257151d48b51a800d  usr/share/doc/libhttp-parser2.9/changelog.Debian.gz
+0c01829089531835a44b31b8746ac32d  usr/share/doc/libhttp-parser2.9/copyright
+286123a4bc5143f0b6b8d83bedfe5d67  usr/share/lintian/overrides/libhttp-parser2.9

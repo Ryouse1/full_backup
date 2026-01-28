@@ -1,0 +1,6 @@
+1b3c24a4f7ad41ccb36755ec6018547a  usr/lib/x86_64-linux-gnu/libgdal.so.34.3.8.4
+7afb88ae08a0f0a63202f469ca90745c  usr/share/doc/libgdal34/NOTICE
+f562bdbf661ddba272e1d1f26462e20a  usr/share/doc/libgdal34/changelog.Debian.gz
+b764d6c6f9d279cc3f5e57ced7c85526  usr/share/doc/libgdal34/changelog.gz
+e97927e75274f7bc21f09cd4aa562b6d  usr/share/doc/libgdal34/copyright
+4b6ba92f82d39100b634a554c5da3144  usr/share/lintian/overrides/libgdal34

@@ -1,0 +1,13 @@
+89fd787b2a3b6cc006efe677c8f5fde5  usr/bin/pkgconf
+978c5c8ea754aa5bfb217269b92f1fc6  usr/lib/pkgconf.multiarch
+c497ed2a59f927f916cfd7edc62307cd  usr/share/aclocal/pkg.m4
+a4ff3af702f8285b863bd89ccd79c4c9  usr/share/doc/pkgconf/AUTHORS
+386294363cd4faa619ab71a72f2a619b  usr/share/doc/pkgconf/README.md.gz
+12c6b88bf4aa0dade8cc7e62d3853394  usr/share/doc/pkgconf/copyright
+a2e29ba794e7dfd28868e00619ee2b73  usr/share/lintian/overrides/pkgconf
+425057ea2446c210df42e31143848fb5  usr/share/man/man1/pkgconf.1.gz
+c8602309e12d18524b6d7c16e98efcf0  usr/share/man/man5/pc.5.gz
+7ebc81107c9505b3a4bf3572d5365271  usr/share/man/man5/pkgconf-personality.5.gz
+be8f44cfa0f830709f866ce9510e6b1e  usr/share/man/man7/pkg.m4.7.gz
+1cd1dd00a0cbe66f3a2900d497223176  usr/share/pkg-config-crosswrapper
+2face95bca6b890c12ababadd89b6f25  usr/share/pkgconf-dpkghook

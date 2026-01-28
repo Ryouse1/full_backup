@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/gcc
+/usr/lib/gcc/x86_64-linux-gnu
+/usr/lib/gcc/x86_64-linux-gnu/11
+/usr/lib/gcc/x86_64-linux-gnu/11/include
+/usr/lib/gcc/x86_64-linux-gnu/11/include/ISO_Fortran_binding.h
+/usr/lib/gcc/x86_64-linux-gnu/11/libcaf_single.a
+/usr/lib/gcc/x86_64-linux-gnu/11/libgfortran.a
+/usr/share
+/usr/share/doc
+/usr/lib/gcc/x86_64-linux-gnu/11/libgfortran.so
+/usr/share/doc/libgfortran-11-dev

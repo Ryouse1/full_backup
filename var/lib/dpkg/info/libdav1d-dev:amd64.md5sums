@@ -1,0 +1,15 @@
+23ee9f63e9dd602f201041f898bebab5  usr/include/dav1d/common.h
+55d8fe6bd4453800d1494b1ff1f18c5d  usr/include/dav1d/data.h
+e9358ad7d0c5aeb00da794333490657a  usr/include/dav1d/dav1d.h
+7ca1a605a2c653ae7c3013bec59feb89  usr/include/dav1d/headers.h
+85e44c9cb9152829c2f4128aba9a488a  usr/include/dav1d/picture.h
+ab4a08ee939f6d13e762ac4e944bec06  usr/include/dav1d/version.h
+d91f78574a689ff4d593ef08985c1e51  usr/lib/x86_64-linux-gnu/pkgconfig/dav1d.pc
+d5ca2ea6833f4bfb3bb51317c358cd2c  usr/share/doc/libdav1d-dev/copyright
+35186816eaae88f8143b09541a7ed7da  usr/share/doc/libdav1d-dev/examples/dav1dplay.c
+1f0fd4ac7a13be858066a1c42671b128  usr/share/doc/libdav1d-dev/examples/dp_fifo.c
+7dd2878adce78cd754080d9f54cf506f  usr/share/doc/libdav1d-dev/examples/dp_fifo.h
+e28f44f655eb0a300297da07fbe6ee49  usr/share/doc/libdav1d-dev/examples/dp_renderer.h
+da5074755e31c5bf6b0364686955abb5  usr/share/doc/libdav1d-dev/examples/dp_renderer_placebo.c
+7d2cc767870c1ae1f204839e375ac14c  usr/share/doc/libdav1d-dev/examples/dp_renderer_sdl.c
+1c4084fbb65635d2dc02a5dd79d5ff38  usr/share/doc/libdav1d-dev/examples/meson.build

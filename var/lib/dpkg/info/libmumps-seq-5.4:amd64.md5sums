@@ -1,0 +1,10 @@
+85c7ffa12551011f66b0b892bd01c461  usr/lib/x86_64-linux-gnu/libcmumps_seq-5.4.0.so
+19fdf2215d0bdd2fcdc400e2607e516b  usr/lib/x86_64-linux-gnu/libdmumps_seq-5.4.0.so
+9556d975cda53ef19ed558a996378f85  usr/lib/x86_64-linux-gnu/libmpiseq_seq-5.4.0.so
+3b97b29c4f462337f2b0c2ad78fe138f  usr/lib/x86_64-linux-gnu/libmumps_common_seq-5.4.0.so
+1ae1f56bbd7fa2765b3a4fd586632f63  usr/lib/x86_64-linux-gnu/libpord_seq-5.4.0.so
+80a5db3376dc00a9d73dcf2a692cc647  usr/lib/x86_64-linux-gnu/libsmumps_seq-5.4.0.so
+ce1307e238aef11ff53f0cfcce1004e9  usr/lib/x86_64-linux-gnu/libzmumps_seq-5.4.0.so
+cb80084766854963a64db9fe18840aa9  usr/share/doc/libmumps-seq-5.4/changelog.Debian.gz
+48969625bc55f42a42355116eb3d0401  usr/share/doc/libmumps-seq-5.4/copyright
+f58f2c6d484ccd4e96ce384981b3b0a0  usr/share/lintian/overrides/libmumps-seq-5.4

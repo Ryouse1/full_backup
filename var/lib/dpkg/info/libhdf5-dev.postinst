@@ -1,0 +1,67 @@
+#!/bin/bash
+
+set -e
+
+if [ "serial" != "serial" ]; then
+  update-alternatives \
+	--install /usr/bin/h5pcc h5pcc /usr/bin/h5pcc.serial 20 \
+	--slave /usr/bin/h5pfc h5pfc /usr/bin/h5pfc.serial \
+	--slave /usr/share/man/man1/h5pcc.1.gz h5pcc.1.gz /usr/share/man/man1/h5pcc.serial.1.gz \
+	--slave /usr/share/man/man1/h5pfc.1.gz h5pfc.1.gz /usr/share/man/man1/h5pfc.serial.1.gz
+fi
+update-alternatives \
+	--install /usr/lib/x86_64-linux-gnu/pkgconfig/hdf5.pc hdf5.pc /usr/lib/x86_64-linux-gnu/pkgconfig/hdf5-serial.pc 20 \
+
+# Install hdf5-mpi.pc as a new slave of the 'mpi' alternatives
+# See #953021
+# There is no way to simply add a new slave. We must parse the existing
+# mpi alternatives, then reinstall the whole related alternative plus the
+# wanted --slave part
+function read_alt_slaves () {
+  # See #973261
+  local -n slaves=$1
+  set -- $(echo "$2" | sed -n '/Slaves:/{: while;n;s/^ //;T end;p;b while;: end;q}')
+  while [ -n "$1" ]; do
+    slaves["$1"]="$2"
+    shift 2
+  done
+}
+
+if [ "serial" != "serial" ]; then
+  # Parse existing mpi alternatives
+  mpi_alt=$(update-alternatives --query mpi)
+  mpi_alt_sig=$(echo "$mpi_alt" | sed '/^$/q')
+  mpi_alt_impl=$(echo "$mpi_alt" | sed -n -e '\!^Alternative: /usr/bin/mpicc.serial!p' -e '0,\!^Alternative: /usr/bin/mpicc.serial!d' -e '/^$/q' -e 'p')
+  mpi_impl_priority=$(echo "$mpi_alt_impl" | sed -n '/^Priority: /{s/Priority: \(.*\)$/\1/;p}')
+  declare -A slave_links slave_targets
+  read_alt_slaves slave_links "$mpi_alt_sig"
+  read_alt_slaves slave_targets "$mpi_alt_impl"
+  # At this point:
+  # * slave_links holds all the slaves name,link pairs
+  # * slave_targets holds all the slaves name,target pairs for our mpi flavor
+  # Construct the slaves related part of the update-alternatives command
+  current_slaves=
+  for key in "${!slave_targets[@]}"; do
+    # Do not keep the 'hdf5-mpi.pc' slave for idempotency
+    if [ "$key" = "hdf5-mpi.pc" ]; then
+      continue
+    fi
+    current_slaves="$current_slaves --slave ${slave_links[$key]} $key ${slave_targets[$key]}"
+  done
+  # Re-install the whole alternative plus our 'hdf5-mpi.pc' slave
+  update-alternatives --install /usr/bin/mpicc mpi /usr/bin/mpicc.serial "$mpi_impl_priority" $current_slaves --slave /usr/lib/x86_64-linux-gnu/pkgconfig/hdf5-mpi.pc hdf5-mpi.pc /usr/lib/x86_64-linux-gnu/pkgconfig/hdf5-serial.pc
+  # Corner case:
+  # When we have no installed libhdf5-<mpi>-dev for the currently configured mpi alternative
+  # we have to provide a dummy hdf5-mpi.pc to enable installing this choice into the hdf5.pc alternatives
+  if [ ! -h /usr/lib/x86_64-linux-gnu/pkgconfig/hdf5-mpi.pc ]; then
+    ln -s /dev/null /usr/lib/x86_64-linux-gnu/pkgconfig/hdf5-mpi.pc
+  fi
+  # Install the hdf5-mpi.pc choice into the hdf5.pc alternatives
+  update-alternatives --install /usr/lib/x86_64-linux-gnu/pkgconfig/hdf5.pc hdf5.pc /usr/lib/x86_64-linux-gnu/pkgconfig/hdf5-mpi.pc 35
+fi
+
+
+
+exit 0
+
+

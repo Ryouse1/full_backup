@@ -1,0 +1,11 @@
+0778ea32ebe8e51d448761ff393d54e1  usr/lib/x86_64-linux-gnu/libspatialite.so.8.1.0
+b7a369cea4cdf8c081994b7b0d5fb14a  usr/share/doc/libspatialite8/NEWS.Debian.gz
+aee4bb85805e94fe107a4343e82128ff  usr/share/doc/libspatialite8/README.Debian
+62e969aa37b4ccd7ab1b998fcbccd958  usr/share/doc/libspatialite8/changelog.Debian.gz
+3a81757d2c6ee3aa859ac3403d802200  usr/share/doc/libspatialite8/copyright
+d2b4343bde158641504d4f9d41d352d4  usr/share/doc/libspatialite8/examples/demo1.c
+4d1491e0a49f554d9c0585d810adba04  usr/share/doc/libspatialite8/examples/demo2.c
+88d50795bc6e9e95257a1c3c9e0a23ff  usr/share/doc/libspatialite8/examples/demo3.c
+09681f541f82a11b7e5abc51f7f2c518  usr/share/doc/libspatialite8/examples/demo4.c
+b4e2eb32ebbf9d13bf8282bf30e19265  usr/share/doc/libspatialite8/examples/demo5.c
+78df00b313d367aebebc46f82f15fc81  usr/share/lintian/overrides/libspatialite8

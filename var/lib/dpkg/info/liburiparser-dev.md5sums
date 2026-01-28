@@ -1,0 +1,8 @@
+e9f91a7a80b37939b59d94ca6407d557  usr/include/uriparser/Uri.h
+1e82a7d3afbcb637ed91cbf8d1362d9d  usr/include/uriparser/UriBase.h
+aea48c76530efb5c06db9e4696c3b42a  usr/include/uriparser/UriDefsAnsi.h
+647caf14b1a7c2d77189e46c7bb0e910  usr/include/uriparser/UriDefsConfig.h
+a858214907b8036b4135bf2756f40b17  usr/include/uriparser/UriDefsUnicode.h
+d29f07711362f189ec080dbe506b51ad  usr/include/uriparser/UriIp4.h
+4163be692148c1741eaf5df8d30905d5  usr/lib/x86_64-linux-gnu/pkgconfig/liburiparser.pc
+7591c732c4438efe36358802d4dbcddd  usr/share/doc/liburiparser-dev/copyright

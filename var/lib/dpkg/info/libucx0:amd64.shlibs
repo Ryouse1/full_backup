@@ -1,0 +1,7 @@
+libucm 0 libucx0 (>= 1.12.1~rc2)
+libucp 0 libucx0 (>= 1.12.1~rc2)
+libucs 0 libucx0 (>= 1.12.1~rc2)
+libuct 0 libucx0 (>= 1.12.1~rc2)
+libuct_cma 0 libucx0 (>= 1.12.1~rc2)
+libuct_ib 0 libucx0 (>= 1.12.1~rc2)
+libuct_rdmacm 0 libucx0 (>= 1.12.1~rc2)

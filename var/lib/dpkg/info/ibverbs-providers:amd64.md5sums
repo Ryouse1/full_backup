@@ -1,0 +1,17 @@
+705f828aaca7cca4bec1913edbedfd5d  usr/lib/x86_64-linux-gnu/libefa.so.1.1.39.0
+87a1568d1cc4cd68f0b19b8fba64c561  usr/lib/x86_64-linux-gnu/libibverbs/libbnxt_re-rdmav34.so
+a7df8636adf785eb9b6ad6d0f5b595da  usr/lib/x86_64-linux-gnu/libibverbs/libcxgb4-rdmav34.so
+2e7147185e803ecfd88e20b0ef4fc272  usr/lib/x86_64-linux-gnu/libibverbs/libhfi1verbs-rdmav34.so
+879a61ea972d7d4df97505466e89c57c  usr/lib/x86_64-linux-gnu/libibverbs/libhns-rdmav34.so
+ea53d4d7b0bbb844c0d2ba8e9d9c510d  usr/lib/x86_64-linux-gnu/libibverbs/libipathverbs-rdmav34.so
+6d5ca67bf3147753dec73d7506926206  usr/lib/x86_64-linux-gnu/libibverbs/libirdma-rdmav34.so
+74f9fb1937653988c18498b7ef9e6da2  usr/lib/x86_64-linux-gnu/libibverbs/libmthca-rdmav34.so
+9eab1091e06ec1891f9fbb5b0eadd634  usr/lib/x86_64-linux-gnu/libibverbs/libocrdma-rdmav34.so
+3b266269fce7334c86c4c08bc7dc1f7d  usr/lib/x86_64-linux-gnu/libibverbs/libqedr-rdmav34.so
+ae89de4bc65419077238b469e8bb9805  usr/lib/x86_64-linux-gnu/libibverbs/librxe-rdmav34.so
+1ffbd6fe929892ac21da36bb2064ba4b  usr/lib/x86_64-linux-gnu/libibverbs/libsiw-rdmav34.so
+5c26c157ca43f5df2129143572687f7c  usr/lib/x86_64-linux-gnu/libibverbs/libvmw_pvrdma-rdmav34.so
+526dec6757f65ebc89838d3384cf3b0e  usr/lib/x86_64-linux-gnu/libmlx4.so.1.0.39.0
+0df1379a2edc3368ea19bc575df3c29d  usr/lib/x86_64-linux-gnu/libmlx5.so.1.22.39.0
+846b9df100e97a04138bb530d3d2d92e  usr/share/doc/ibverbs-providers/copyright
+79a34d4e5988f4dfcfd04b0d9d518a3b  usr/share/lintian/overrides/ibverbs-providers

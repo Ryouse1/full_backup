@@ -1,0 +1,10 @@
+b35876aa01c61e20c352b8d038b727de  usr/lib/x86_64-linux-gnu/libmkl_blas95_ilp64.a
+7ead54603d0105464ed3989c2f2a889f  usr/lib/x86_64-linux-gnu/libmkl_blas95_lp64.a
+81f42064020c3a69d2c64061894b5b94  usr/lib/x86_64-linux-gnu/libmkl_gf_ilp64.a
+08adfc0f96c4c7f06515deeb321f1c5a  usr/lib/x86_64-linux-gnu/libmkl_gf_lp64.a
+d24e0a6e55ccb79d15a29d800ef1fd24  usr/lib/x86_64-linux-gnu/libmkl_intel_ilp64.a
+1e47f89c23e9739c5ecc2275fc285b0f  usr/lib/x86_64-linux-gnu/libmkl_intel_lp64.a
+6c79a547db3f98a5260d579db53b8ae3  usr/lib/x86_64-linux-gnu/libmkl_lapack95_ilp64.a
+659fe3c5f324b927ce23978fecb55e64  usr/lib/x86_64-linux-gnu/libmkl_lapack95_lp64.a
+9a8f27203dd034ef93aef022b5ad47c6  usr/share/doc/libmkl-interface-dev/copyright
+0a6638ad296c114b34460e93fe67c059  usr/share/lintian/overrides/libmkl-interface-dev

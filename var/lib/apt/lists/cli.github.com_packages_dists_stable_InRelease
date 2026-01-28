@@ -1,0 +1,65 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: gh
+Label: gh
+Codename: stable
+Date: Wed, 14 Jan 2026 18:44:07 UTC
+Architectures: i386 amd64 armhf arm64
+Components: main
+Description: The GitHub CLI - debian stable repo
+MD5Sum:
+ 1d9196b55adae45d61c7fa1d9f24c1aa 453 main/binary-i386/Packages
+ 870d317801ce6907bf4064b9bc5920a4 355 main/binary-i386/Packages.gz
+ 8e3dfcca4db45399511c323b77216bd1 105 main/binary-i386/Release
+ f8e2fa436c2f6dc6447faff4d728a435 455 main/binary-amd64/Packages
+ 4d63ae01ef79b0043984118d2924d7fd 354 main/binary-amd64/Packages.gz
+ b92504f59f775ebdb6c4e4c08dcf91fc 106 main/binary-amd64/Release
+ 04166e75ddca2adb0e65bd1652bdbdb2 455 main/binary-armhf/Packages
+ db0d3ca99a0ef843ae28181464e5feba 356 main/binary-armhf/Packages.gz
+ cfe4a2d48d554e06c4fc878a3446d5e3 106 main/binary-armhf/Release
+ cf55ef508e29030387293b7920efe1d8 455 main/binary-arm64/Packages
+ 47dba0dd6d6acd7908efdde662dfbb74 356 main/binary-arm64/Packages.gz
+ 8a3aafa4afcfea16b5ae132e8b53bcd2 106 main/binary-arm64/Release
+SHA1:
+ 10d7c70be1601e64961aad420f65b90e7e311333 453 main/binary-i386/Packages
+ 2c8afdcf5d744144132739528ad5ae0b96f3b7a6 355 main/binary-i386/Packages.gz
+ 520bae011e2f821891e2d19f856f4d5c076bcb43 105 main/binary-i386/Release
+ a593b0cf09b09dd0c680d599c300c6dd93a75790 455 main/binary-amd64/Packages
+ 241ce12c51b805c016328edd4e0b98509518dea3 354 main/binary-amd64/Packages.gz
+ 6bf909226e454f6cde4be70eecbba50e8ae8b016 106 main/binary-amd64/Release
+ 9a136242983a9733dae91487e4efcc117a36b881 455 main/binary-armhf/Packages
+ acda5444cc52eae4e65818c10f1b74dd3e961bcb 356 main/binary-armhf/Packages.gz
+ 37f4d893bd67c65aae8548aa0257c68d01dd066e 106 main/binary-armhf/Release
+ 0b4a16899eb08f8fe3f3dd2b9ef090a7c4074ea1 455 main/binary-arm64/Packages
+ 99a37e9c2692b390da501e6477ba8079cbcb9070 356 main/binary-arm64/Packages.gz
+ 43469825f6d740b5385ff94b863cc438f2fccc45 106 main/binary-arm64/Release
+SHA256:
+ 4572593c50d385947eeeafe50967ae5017d5d9585d0c3724738dc669f6f90176 453 main/binary-i386/Packages
+ a2cff981efbe3f2eba055787d20d17b54edcf34cefc8a708f8e77ee979a5a138 355 main/binary-i386/Packages.gz
+ d61ee8f18f1ae5ce11daa24702f62dad76979534f531e23a342b8257ec7cac5c 105 main/binary-i386/Release
+ 8950b31f83e89378dd978d5d23ac00461bb0aeba0db4e80b0c605c4bab8eeaf4 455 main/binary-amd64/Packages
+ e510a1f918d0019bc6934d57c9a0b58917a4cc28f2fd159aeadd4929cbfe305a 354 main/binary-amd64/Packages.gz
+ 694a2cf4d8900852b60bfa73b4506fa2dff73f4234c23be99133f7f4d51fe622 106 main/binary-amd64/Release
+ 8d57e31ee1d2cc9d02301a4c44f0f86fb41b5630da1bfcce3241a4c92a2be1b7 455 main/binary-armhf/Packages
+ bca1851573cc8ecae9e936864bb4a06a1bfc80a5a4b7dabdb4a5419474b2e1fe 356 main/binary-armhf/Packages.gz
+ 4b204b1ff008df32781b58bc33147890f90ed8eadfc314df5cc5e86478531029 106 main/binary-armhf/Release
+ d7f67a444c525f143cd4ee25b2d6cce84a8bf5b8a14294bb989f3c113787d059 455 main/binary-arm64/Packages
+ 09ac5c198a18f4438ea5e77a221ce4c1d7c8fd0589bd8e130de8e34c3ba2ecff 356 main/binary-arm64/Packages.gz
+ 8fc91a487e1a6425fcb9be5bea8b2b0f475de584da4fdfe06cefcfcae77151e7 106 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEELGEGIBmFtg5seshzI/PU6nVxYFkFAmln4/gACgkQI/PU6nVx
+YFmY0A//bXgBe0GvAvEbRf4+8J15GCnbOUv6uwgFEEg7s1SKpdrMIV8GeMUvYTmW
+XIav1XZXk+YFtlERJrnSaMxKMZDIAU7riSrnwpYrFsXQ0+BYIJtIKnvrB+TTHVk1
+E1rdeN00zCcZx8/OFaPULMjrrqCCDLEvE3a7QXUEqdmYNObHTAKEt0pFCyGAJCEP
+1/rkV/CvyGBycj27E+eIQLTUNq/J7L9NdrPZw/qkooeWvI/1T1VZFZya5CbQgP3A
+RNQJgiezg2q727TgU6YTtbe9RSK/5qfidNK4BFHPBQh90GMVrdNOxklDXd5MI6tY
+AORqXnmgRhsFn+ihSGdBXXTwAj8Fk0AOttXl/N4ETVeJ4exCa0f+/ohfvtfvQ5lJ
+mwVeWMI1czF+b+0bHOAcPBBiPbA6OupgECR3VlAVKaSf+ggtnhreCNrsSPmW94MU
+shuwSvtGX9WkVgmR++yKeUp7IbGi+MXOt0DKGX6MVWipVE1Ui5iABUOJj7JHntD9
+yoC3GwA59e7devuwdIp8vrF+AIbw5NwSjSeKLGolufMeHbxYr0Rt6In6844tFPrB
+rEWF3L/HyNRupOmBUELQn25VvQj4gYgGzvvJE0FYYk7l3PCuZXRMb/3BdkwM1JCa
+U0j50Vp4siEawrWureTZi1FIhYCtn1AHHGft4FxB7c1VmrjWZzo=
+=QCbE
+-----END PGP SIGNATURE-----

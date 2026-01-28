@@ -1,0 +1,8 @@
+485d7ed4d3c163ca7c4e423770cf9b46  bin/fusermount
+9e87f77b00f6a6f5b44cc3f48be16cbb  bin/ulockmgr_server
+e37306b1ebee3f80123aad89f4c7d9ae  sbin/mount.fuse
+e30572e52fb946fa99316e9e655bec75  usr/share/doc/fuse/copyright
+e7b1a3fb8aa4d9bf46c5abcf7e17402b  usr/share/initramfs-tools/hooks/fuse
+0b5a083a1f0389f6b85e265c409aef2f  usr/share/man/man1/fusermount.1.gz
+566d17be3f91c1522e547d555c326e76  usr/share/man/man1/ulockmgr_server.1.gz
+df0a865b3e2393038bff819ec3d5f423  usr/share/man/man8/mount.fuse.8.gz

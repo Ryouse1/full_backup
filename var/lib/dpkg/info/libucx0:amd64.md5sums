@@ -1,0 +1,11 @@
+515c67a4504e4bf95793f038eb6df9bd  usr/lib/x86_64-linux-gnu/libucm.so.0.0.0
+7c9e95ac758621e3685098b51473daf4  usr/lib/x86_64-linux-gnu/libucp.so.0.0.0
+952571bbb9e81960e2be1f26450c8ff4  usr/lib/x86_64-linux-gnu/libucs.so.0.0.0
+761525d7636a1744fb73a7ba4bf776da  usr/lib/x86_64-linux-gnu/libuct.so.0.0.0
+7a85793140f5624a9d088c529d845be7  usr/lib/x86_64-linux-gnu/ucx/libuct_cma.so.0.0.0
+dac21b43976ab9ec7f583a5f031f6035  usr/lib/x86_64-linux-gnu/ucx/libuct_ib.so.0.0.0
+eda948586a163c5f8b5e1e592e2bdae6  usr/lib/x86_64-linux-gnu/ucx/libuct_rdmacm.so.0.0.0
+60145feec87b3fc6c377837dc6c35765  usr/share/doc/libucx0/AUTHORS
+5a468eaf35ae2c75484920d2f263f73f  usr/share/doc/libucx0/NEWS.gz
+e4b827cd2ac04499a06f23be50ec050b  usr/share/doc/libucx0/changelog.Debian.gz
+c2c08d5cc71fa039d2553ff2c645db06  usr/share/doc/libucx0/copyright

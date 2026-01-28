@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/gdalplugins
+/usr/lib/x86_64-linux-gnu/gdalplugins/drivers.ini
+/usr/share
+/usr/share/doc
+/usr/share/doc/gdal-plugins
+/usr/share/doc/gdal-plugins/NOTICE
+/usr/share/doc/gdal-plugins/changelog.Debian.gz
+/usr/share/doc/gdal-plugins/changelog.gz
+/usr/share/doc/gdal-plugins/copyright

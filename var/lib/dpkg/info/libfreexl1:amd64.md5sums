@@ -1,0 +1,9 @@
+1f8dd5351f119d70699278d438a7ce4c  usr/lib/x86_64-linux-gnu/libfreexl.so.1.2.0
+12aa310a2b9ec5b56379c8860e431a37  usr/share/doc/libfreexl1/changelog.Debian.gz
+74759ef59b1647ded118e9bcb17bc5da  usr/share/doc/libfreexl1/copyright
+f62fb79bb76c9f1c3b118689f1759fc4  usr/share/doc/libfreexl1/examples/ods2sql.c
+2a2e73ec49394b765f41b49e2c077b94  usr/share/doc/libfreexl1/examples/test_ods.c
+744020557b98c3c128fd0f374cb7629d  usr/share/doc/libfreexl1/examples/test_xl.c
+deaae46eb9d3302a84b2ece208b6526e  usr/share/doc/libfreexl1/examples/test_xlsx.c
+04d39f572551dddf9134b2591f02ba33  usr/share/doc/libfreexl1/examples/xl2sql.c
+b4b1b8fa930cd5c165ce0ed1567aff87  usr/share/doc/libfreexl1/examples/xlsx2sql.c

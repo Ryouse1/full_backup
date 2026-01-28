@@ -1,0 +1,7 @@
+b8810565c4a95890529ea38fbd02e6ec  usr/bin/clinfo
+777eb6557a05eb5b93c685992a82f2e6  usr/share/bug/clinfo/control
+28407980621f0e80376baca057992dc3  usr/share/bug/clinfo/script
+ba9d9b1bf4c1b18e2f228d7c724ec172  usr/share/doc/clinfo/README.md.gz
+ef169402c1993cee24f0dbfb49eecc83  usr/share/doc/clinfo/changelog.Debian.gz
+f41cef3a32602fb5a5ea15ce823043fe  usr/share/doc/clinfo/copyright
+4a09b03b82aa611c6a91316a3c4d150a  usr/share/man/man1/clinfo.1.gz

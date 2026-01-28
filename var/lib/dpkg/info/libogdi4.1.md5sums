@@ -1,0 +1,11 @@
+729d819eb4a6051b428a868c07f6946b  usr/lib/libogdi.so.4.1
+002e1cb0310f96115a6ef21497e8cf88  usr/lib/libvpf.so.4.1
+26f48e2482034d1b06a50caf495b1345  usr/lib/ogdi/4.1/libadrg.so
+34d06c038a7215925f2defccef0c6b00  usr/lib/ogdi/4.1/libecs_tcl.so
+da6870292b3e581390d00cfaa077c1d7  usr/lib/ogdi/4.1/libgdal.so
+942431a3c73eaed55aa8dcbfc6dc9700  usr/lib/ogdi/4.1/libremote.so
+53fe4a97f14bae274099b3116116d7ca  usr/lib/ogdi/4.1/librpf.so
+0d7c77e9f437f7c947a122211883396b  usr/lib/ogdi/4.1/libvrf.so
+66dbf017f5592dd33638fafc373c8708  usr/share/doc/libogdi4.1/changelog.Debian.gz
+ef037cc11dd8a6b2c0b6193f54879f67  usr/share/doc/libogdi4.1/copyright
+37df1317e882715ac42268ef7f48448f  usr/share/lintian/overrides/libogdi4.1

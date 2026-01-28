@@ -1,0 +1,53 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: i386 amd64 arm64 all source
+Codename: jammy-cran40
+Components: main
+Date: Fri, 16 Jan 2026 02:17:12 +0000
+Description: R 4.0 packages for Ubuntu Jammy Jellyfish 22.04
+Label: CRAN
+Origin: CRAN
+Suite: jammy-cran40
+Version: 22.04
+MD5Sum:
+ 9b6b2544b0baa79012813a40b3677db2           744592 Packages
+ 252d9dabb9cf71e403f3b3386f45224b            69473 Packages.bz2
+ ed71d71303e6335e08bab8612fbfa326            83613 Packages.gz
+ d3d40df8fe1b2bdbd24342ed73761222            66361 Packages.lzma
+ f643531e0b30fdb8954561bc61ca90f4              242 Release
+ c922ad5a887be77f19868ca48b399774            65610 Sources
+ 10dc7efd8fda9828fd829361e5431092            19010 Sources.bz2
+ a4aa8d4602559b2e27d33eed240e68e6            21087 Sources.gz
+ 7dcc2a6983815587d7d6ea7d6e67bf3d            18400 Sources.lzma
+SHA256:
+ b252653d9d0526b05e6f1aed379f23cf8ad4c35dec25ec857de6ba4eb9c1a8d5           744592 Packages
+ 59d12cfc833a5650948612a32d57cca287089aba5948514099573b61d621dded            69473 Packages.bz2
+ d785e68484eca5d8dc9ae0ae8140f984e7ec5955a09448ca3fde7208bdfb482c            83613 Packages.gz
+ 8ab97401f7f52636afaf074dac910ca19d018fc121db2061d48d1c24b37e4f33            66361 Packages.lzma
+ 95b8d98ee0b29454cdec367d7c8e063b3a17bcc586ae43bfbdca2010cbeee799              242 Release
+ 797ac2ab40a3233b55e62a8f548f967dcc495f4ddf46df912fb8472d12a98d98            65610 Sources
+ 22c18497cf48306ecb9a82f69bd4b32286facf4dc507131104b62e1adbd98143            19010 Sources.bz2
+ 81be8292972594383d789ec0079ec48931c1c0a2a50948e2b99fe2070e411fe4            21087 Sources.gz
+ ec488da5446a40685cc4e667e6d8083cc02aa16af7d5e55550e73dd2335c8cf4            18400 Sources.lzma
+SHA512:
+ 1b6cecb6281720edde4dc1647e885b4feca1a1bef066048bcd862d8bbe2d40459a987c1277ccce50a599d8dd597cf3e4fc14d85b6b259ccf1f93971d74c03240           744592 Packages
+ a88400bab34a4fe503c049f18aa2b447fdeb31c40af0cda2b994c71998b85b737f3e4c0ad60b4d6e7c4856dc40269102269edb2eca719824b7bab5193040bcf3            69473 Packages.bz2
+ adade17aaef918e14c94f21db4fb0ed0fd8832d9224c843f25135bb69aac8472fd364c6c807c71aa4dc33c9e74ce31680a5850c26ce5b8d0706422e09772b4ce            83613 Packages.gz
+ 7f37584d754fd3d2576de545f23d7710e0f2ad0ef705a84151b41ed356daae4d9ba9a374d1bdcf04f605100fcff9bc6180f681bfaa836e8ec41a2e9936ded0f3            66361 Packages.lzma
+ 0004f7f194b401a327b11b4c3fc73a36080c62be4bb6ea2b5f99e2719fc5d78f70e2352eb870514235a2496b98cc57efb92c42d1c008de6e91889e6487872fa2              242 Release
+ 80bc5c9ffd4705c947803c3037be13c0273f5c7ce3c54a43a3159ba96fc67bbaeb204031c2ad82deae6fdd4a367dda8bd5c12b72535e1a3c5aeac4771edefa23            65610 Sources
+ 04e18ef045f5044d0eb04fad0e889593f7ab192697eedc81beec6a9cfb143973548936c0670bcde2ddfad5705b2aee97be9858f81044520b683373549e39c075            19010 Sources.bz2
+ a2c21a1138888ce5a7e0caade529ce5534595f0a57c33b9bffbcd1d63cf3413ed95fea8f237b629e5f5c5cb5648ad36324d952d3613c1d9f1ac27c921ecd96cb            21087 Sources.gz
+ 5888c1ac4ef26a3187a8d3bfff36ec3c9ac2d73813b8e82c0aaf2cba32121845fa2d09d625dcd6fa3ad1271d08d0aa3be1c89ccbbfb868c51865b15e019523b8            18400 Sources.lzma
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEE4pijqCXA1l39V8u2UXFmGeCE2rkFAmlpn6gACgkQUXFmGeCE
+2rlYWAf+MVdTpWl1GGiFWEpBPia9FjfvrpEXwcsd0kFJwRAFN7/gFfWZQTAxaejn
+EDSSJlJ9DsFs//i15JZBriZknxQSynE2MObFlBSbZKsTd6Y92cnYGLi0WeXRX7SR
+5xdq/DgpLqj5pJJbcS7Oi2J+tFPzEMJk1M49UhjS4VTdmi9qch1tHH6j1UwrHnBJ
++IDky9i6fAuNCdqL8nlWpVGoppTzMFZlXSot+2BVowFCu+xMMYKHAXqAvwsGlTr3
+ozpOsoaxIICWDrU7hkArxLc54SXaVgmrD1h5Yn7/2W9LfoEJPdgqIsqmFgZEva+u
+Jt/coV53y8B+NJNDlhEADZThkXFPhQ==
+=H4mj
+-----END PGP SIGNATURE-----

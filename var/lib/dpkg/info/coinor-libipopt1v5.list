@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libipopt.so.1.9.9
+/usr/share
+/usr/share/doc
+/usr/share/doc/coinor-libipopt1v5
+/usr/share/doc/coinor-libipopt1v5/README
+/usr/share/doc/coinor-libipopt1v5/README.Debian
+/usr/share/doc/coinor-libipopt1v5/changelog.Debian.gz
+/usr/share/doc/coinor-libipopt1v5/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/coinor-libipopt1v5
+/usr/lib/libipopt.so.1

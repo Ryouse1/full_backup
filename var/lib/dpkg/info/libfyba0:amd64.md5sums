@@ -1,0 +1,7 @@
+58e552d3f6d6b3ebf2929caf5cfbe220  usr/lib/x86_64-linux-gnu/libfyba.so.0.0.0
+25cb4a5c5c1ae78c462a9d23d118d5c5  usr/lib/x86_64-linux-gnu/libfygm.so.0.0.0
+6505c1b9da5d81f5be78d132b0276644  usr/lib/x86_64-linux-gnu/libfyut.so.0.0.0
+fda338604f5456ffedef831fe1b637ff  usr/share/doc/libfyba0/README.gz
+6a6897034626b9887e00d6f4b5dcdcbe  usr/share/doc/libfyba0/changelog.Debian.gz
+91c8537095fb96037caff863f09cf5f8  usr/share/doc/libfyba0/copyright
+ef4d3c4ba6696f66b2d6acca27bde8f4  usr/share/lintian/overrides/libfyba0

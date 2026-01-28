@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/include
+/usr/include/freexl.h
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libfreexl.a
+/usr/lib/x86_64-linux-gnu/pkgconfig
+/usr/lib/x86_64-linux-gnu/pkgconfig/freexl.pc
+/usr/share
+/usr/share/doc
+/usr/share/doc/libfreexl-dev
+/usr/share/doc/libfreexl-dev/changelog.Debian.gz
+/usr/share/doc/libfreexl-dev/copyright
+/usr/lib/x86_64-linux-gnu/libfreexl.so

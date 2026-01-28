@@ -1,0 +1,16 @@
+4e6daf248eb6a2eb759a47b29e4e1022  usr/bin/geos-config
+e3ec3feb0b7df1d18cabe93527ef0fda  usr/include/geos/export.h
+d14630e8e293c85b8c16dea1e21bd54e  usr/include/geos_c.h
+7883243bd870b364284b3aaaa21b740d  usr/lib/x86_64-linux-gnu/cmake/GEOS/geos-config-version.cmake
+b0bab639b90cefe4de253cd06596948c  usr/lib/x86_64-linux-gnu/cmake/GEOS/geos-config.cmake
+dd6258cf0f569892bf0fd11d1cd47b6d  usr/lib/x86_64-linux-gnu/cmake/GEOS/geos-targets-none.cmake
+67a9e4c3b8ac1d6cbcac18971ff3287f  usr/lib/x86_64-linux-gnu/cmake/GEOS/geos-targets.cmake
+f26aaad1d0f8959447e70c1c123a350f  usr/lib/x86_64-linux-gnu/pkgconfig/geos.pc
+2a7184a3fdcb115a229584afc077eaaf  usr/share/doc/libgeos-dev/AUTHORS
+6b3fe4e74393c88bb86bdf75f3f53c62  usr/share/doc/libgeos-dev/NEWS.Debian.gz
+6265a34de43d6e75d7560774b4682fe5  usr/share/doc/libgeos-dev/NEWS.md.gz
+1e0441b98c519746bf5a9c84f79ee7b2  usr/share/doc/libgeos-dev/README.Debian
+171ff6a638c68da72d528b3a7a45b58c  usr/share/doc/libgeos-dev/README.md.gz
+a71ccece9b71cfc3b0fbd6bbd66c1261  usr/share/doc/libgeos-dev/changelog.Debian.gz
+5efae48387c20ab655141259d65a22d0  usr/share/doc/libgeos-dev/copyright
+da920889e696dc679c6b65ea22f95bf3  usr/share/man/man1/geos-config.1.gz

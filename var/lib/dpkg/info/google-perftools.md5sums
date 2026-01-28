@@ -1,0 +1,5 @@
+d0ce8c176ea5e506e5891e7af542ec5c  usr/bin/google-pprof
+d0ce8c176ea5e506e5891e7af542ec5c  usr/bin/pprof-symbolize
+82f30549ef273f1d3b6aeeee1fbaa377  usr/share/doc/google-perftools/README.gz
+82c4799fc04fd5ded11e5c1a78fd6ba9  usr/share/doc/google-perftools/copyright
+af754bdf669c24be43390e73d5e38e24  usr/share/man/man1/google-pprof.1.gz

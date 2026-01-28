@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libmkl_core.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libmkl-core
+/usr/share/doc/libmkl-core/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmkl-core
+/usr/share/doc/libmkl-core/changelog.Debian.gz

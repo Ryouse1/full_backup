@@ -1,0 +1,6 @@
+c3f66b488779eef1f3b1767724ecdf8e  usr/include/libaec.h
+11df70fee6ade11b887e1c0957de70ca  usr/include/szlib.h
+923adc972487899c347951c99611172b  usr/lib/x86_64-linux-gnu/libaec.a
+41e610fb7f9b805278a57b3fae6b4eb8  usr/lib/x86_64-linux-gnu/libsz.a
+7b4b2f17ea1743350c6a24007154e243  usr/share/doc/libaec-dev/copyright
+5beee2c55725b8250389dc1b37b13294  usr/share/man/man1/aec.1.gz

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libmkl_intel_lp64.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libmkl-intel-lp64
+/usr/share/doc/libmkl-intel-lp64/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmkl-intel-lp64
+/usr/share/doc/libmkl-intel-lp64/changelog.Debian.gz

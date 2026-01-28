@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libudunits2-data
+/usr/share/doc/libudunits2-data/changelog.Debian.gz
+/usr/share/doc/libudunits2-data/copyright
+/usr/share/xml
+/usr/share/xml/udunits
+/usr/share/xml/udunits/udunits2-accepted.xml
+/usr/share/xml/udunits/udunits2-base.xml
+/usr/share/xml/udunits/udunits2-common.xml
+/usr/share/xml/udunits/udunits2-derived.xml
+/usr/share/xml/udunits/udunits2-prefixes.xml
+/usr/share/xml/udunits/udunits2.xml

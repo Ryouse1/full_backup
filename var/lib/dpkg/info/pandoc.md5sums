@@ -1,0 +1,9 @@
+fbabfca7fe85fb9c6b17ead531d86bc0  usr/bin/pandoc
+d5396761b3c2d700af1a3644083e5f26  usr/share/doc/pandoc/BUGS
+380f59f0a1a469b4cb8144a917499cd4  usr/share/doc/pandoc/README.Debian
+23357c159fcde9daae7e8bfb5656faa6  usr/share/doc/pandoc/README.md.gz
+c384d8a480fa9b9b852e09c13d7f45e7  usr/share/doc/pandoc/TODO.Debian
+aea9e40fbb2be03b96f1cdd4091ff705  usr/share/doc/pandoc/changelog.Debian.gz
+df4ef44dd41fc7c8783109a3dfe692f5  usr/share/doc/pandoc/copyright
+b120d03f70ba9ec34ce4f632b0ce0d7b  usr/share/lintian/overrides/pandoc
+7b028a7ac813037246cfc6bbffed7a11  usr/share/man/man1/pandoc.1.gz

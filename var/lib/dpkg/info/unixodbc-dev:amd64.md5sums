@@ -1,0 +1,16 @@
+a5b1345798c6e81d14eb9e4824569b1b  usr/include/odbcinst.h
+97903eceddbd68d78ed6b40a86440e49  usr/include/odbcinstext.h
+92c6ffc1ea32fb6ff91bce3524e8fde2  usr/include/sql.h
+986633a187b90bc1dc92ef354c2943de  usr/include/sqlext.h
+b5fe139e6f4846d48be05b6fbada1d9c  usr/include/sqlspi.h
+37e468877f5a62b0ca3c1c2fa5cd1c65  usr/include/sqltypes.h
+3817450a44151649f3fbf21483b7aa65  usr/include/sqlucode.h
+7edd7c766efe8bfec232a8c0b5de1648  usr/include/uodbc_extras.h
+1aaf2770bce5cd04baf7b8b332b6e302  usr/include/uodbc_stats.h
+808e4668e0e62fdc2d6710e30355fae8  usr/lib/x86_64-linux-gnu/libodbc.a
+dfdc6b77ca291eb438f5d830e3371e0d  usr/lib/x86_64-linux-gnu/libodbccr.a
+40e0225535c3c0a630d88cd6790af088  usr/lib/x86_64-linux-gnu/libodbcinst.a
+9fda8b1cf78a3cd23cde99afb0eaba4a  usr/lib/x86_64-linux-gnu/pkgconfig/odbc.pc
+60f648394211aa9cc4cf942176754422  usr/lib/x86_64-linux-gnu/pkgconfig/odbccr.pc
+286bbb432fdbad3e9afe469c48da43b4  usr/lib/x86_64-linux-gnu/pkgconfig/odbcinst.pc
+614ba9678651381085b7b117b62c9669  usr/share/doc/unixodbc-dev/copyright

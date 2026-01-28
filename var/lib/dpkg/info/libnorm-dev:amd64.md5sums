@@ -1,0 +1,9 @@
+bd8fd738cc8a929d53977ba01ba08689  usr/include/normApi.h
+663d766642d70101981f24728839132a  usr/lib/x86_64-linux-gnu/cmake/norm/normConfig.cmake
+727b871bbe2426013d3e2637df8e687d  usr/lib/x86_64-linux-gnu/cmake/norm/normConfigVersion.cmake
+2202913364f419eb45dd00d1b2da1520  usr/lib/x86_64-linux-gnu/cmake/norm/normTargets-none.cmake
+15ee6f09d18bb3c4391fa2d571df3f70  usr/lib/x86_64-linux-gnu/cmake/norm/normTargets.cmake
+55b735648b2c9cba7d18ded410892ce7  usr/lib/x86_64-linux-gnu/libnorm.a
+005fb9e977d6fef78f43d502316bc748  usr/lib/x86_64-linux-gnu/libprotokit.a
+821e209fe3014d885e60bf74fa30616b  usr/lib/x86_64-linux-gnu/pkgconfig/norm.pc
+74633b488f060663f6bb6c550b18fb01  usr/share/doc/libnorm-dev/copyright

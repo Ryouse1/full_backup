@@ -1,0 +1,4 @@
+1224d587113916f75c92b3671a36826e  usr/include/http_parser.h
+6227d354e0360a6514899b3a961a6251  usr/lib/x86_64-linux-gnu/libhttp_parser.a
+0c01829089531835a44b31b8746ac32d  usr/share/doc/libhttp-parser-dev/copyright
+d3aeefab8df20ecad30c56f735046a73  usr/share/lintian/overrides/libhttp-parser-dev

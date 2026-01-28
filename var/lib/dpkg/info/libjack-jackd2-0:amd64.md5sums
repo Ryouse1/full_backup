@@ -1,0 +1,6 @@
+52e4566fbeb18d819c1ab840aa8f7b9c  usr/lib/x86_64-linux-gnu/libjack.so.0.1.0
+3b18ff9429da18fb7cd3c39da4120260  usr/lib/x86_64-linux-gnu/libjacknet.so.0.1.0
+da4ba3e400a787587ef5ddcf60fc6036  usr/lib/x86_64-linux-gnu/libjackserver.so.0.1.0
+3b690b2802cdae5b1c336e8a1206f624  usr/share/doc/libjack-jackd2-0/changelog.Debian.gz
+e4b5970d50c586064ac73593f527f741  usr/share/doc/libjack-jackd2-0/copyright
+4a9ca1bfefb44a7211478daafe501226  usr/share/lintian/overrides/libjack-jackd2-0

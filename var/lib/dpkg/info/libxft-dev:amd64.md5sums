@@ -1,0 +1,6 @@
+078c89ffe4e783c52aa626c5a824e34f  usr/include/X11/Xft/Xft.h
+0acc042178c68b30be218b5a58377d36  usr/include/X11/Xft/XftCompat.h
+97629852fe639828cd2747ab6dcac454  usr/lib/x86_64-linux-gnu/libXft.a
+8d85afabdc43a37d1519c8525e4f2c6e  usr/lib/x86_64-linux-gnu/pkgconfig/xft.pc
+46a31477b69ef550bd7d3fa0429854f3  usr/share/doc/libxft-dev/copyright
+af5f4f7602df36d6117bebc743b87f6d  usr/share/man/man3/Xft.3.gz

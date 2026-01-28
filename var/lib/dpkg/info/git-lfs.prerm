@@ -1,0 +1,10 @@
+#!/bin/sh
+
+set -e
+
+# Remove git-lfs config from /etc/gitconfig. The --skip-repo option avoids
+# mutating / if it is a Git repository. (Maybe the user wants to replace this
+# package with a different installation.)
+git lfs uninstall --skip-repo --system > /dev/null 2>&1
+
+

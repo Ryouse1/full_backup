@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libmkl_avx512_mic.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libmkl-avx512-mic
+/usr/share/doc/libmkl-avx512-mic/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmkl-avx512-mic
+/usr/share/doc/libmkl-avx512-mic/changelog.Debian.gz

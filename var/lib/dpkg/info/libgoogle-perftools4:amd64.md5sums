@@ -1,0 +1,5 @@
+afea29d7bfa196174b2e98f4ed685723  usr/lib/x86_64-linux-gnu/libprofiler.so.0.5.4
+9f358ca996c1df3de80e9f7662adcb0d  usr/lib/x86_64-linux-gnu/libtcmalloc.so.4.5.9
+8a85a2a6795bc2257ec7809c3d75e4f1  usr/lib/x86_64-linux-gnu/libtcmalloc_and_profiler.so.4.6.4
+fbb0564df0a49c3d81ecf5eadc797fd6  usr/lib/x86_64-linux-gnu/libtcmalloc_debug.so.4.5.9
+82c4799fc04fd5ded11e5c1a78fd6ba9  usr/share/doc/libgoogle-perftools4/copyright
